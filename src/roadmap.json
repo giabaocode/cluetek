@@ -1,0 +1,702 @@
+[
+  {
+    "id": "R001",
+    "post_id": "CT006",
+    "concept": "usb-c-capability-not-shape",
+    "title": "Same plug. Different jobs.",
+    "status": "scripted"
+  },
+  {
+    "id": "R002",
+    "post_id": "CT007",
+    "concept": "oled-emissive-black",
+    "title": "The screen turns a pixel off.",
+    "status": "scripted"
+  },
+  {
+    "id": "R003",
+    "post_id": "CT008",
+    "concept": "gps-one-way-position-broadcast",
+    "title": "GPS listens to space.",
+    "status": "scripted"
+  },
+  {
+    "id": "R004",
+    "post_id": "CT009",
+    "concept": "nand-block-garbage-collection",
+    "title": "Your SSD rearranges the shelves.",
+    "status": "scripted"
+  },
+  {
+    "id": "R005",
+    "post_id": "CT010",
+    "concept": "qr-redundancy-error-correction",
+    "title": "A damaged QR code can survive.",
+    "status": "scripted"
+  },
+  {
+    "id": "R006",
+    "post_id": "CT011",
+    "concept": "lidar-pulse-round-trip-ranging",
+    "title": "LiDAR times a round trip.",
+    "status": "scripted"
+  },
+  {
+    "id": "R007",
+    "post_id": "CT012",
+    "concept": "capacitive-touch-electrode-grid",
+    "title": "Glass can sense your finger.",
+    "status": "scripted"
+  },
+  {
+    "id": "R008",
+    "post_id": "CT013",
+    "concept": "anc-opposing-signal",
+    "title": "Quiet can come from more sound.",
+    "status": "scripted"
+  },
+  {
+    "id": "R009",
+    "post_id": "CT014",
+    "concept": "piezo-inkjet-droplet-actuation",
+    "title": "A tiny bend launches ink.",
+    "status": "scripted"
+  },
+  {
+    "id": "R010",
+    "post_id": "CT015",
+    "concept": "epaper-bistability-hold-image",
+    "title": "This screen remembers its picture.",
+    "status": "scripted"
+  },
+  {
+    "id": "R011",
+    "post_id": "CT016",
+    "concept": "dns-recursive-name-lookup",
+    "title": "Who finds the website's address?",
+    "status": "planned"
+  },
+  {
+    "id": "R012",
+    "post_id": "CT017",
+    "concept": "tcp-reliable-ordered-stream",
+    "title": "Your download has a missing piece.",
+    "status": "planned"
+  },
+  {
+    "id": "R013",
+    "post_id": "CT018",
+    "concept": "udp-application-reliability",
+    "title": "Why a live call can skip a beat.",
+    "status": "planned"
+  },
+  {
+    "id": "R014",
+    "post_id": "CT019",
+    "concept": "tls-encrypted-connection-boundary",
+    "title": "A secure connection can reach a scam.",
+    "status": "planned"
+  },
+  {
+    "id": "R015",
+    "post_id": "CT020",
+    "concept": "http-etag-revalidation",
+    "title": "The server can say: use your copy.",
+    "status": "planned"
+  },
+  {
+    "id": "R016",
+    "post_id": "CT021",
+    "concept": "cdn-geographic-edge-delivery",
+    "title": "Your video might come from nearby.",
+    "status": "planned"
+  },
+  {
+    "id": "R017",
+    "post_id": "CT022",
+    "concept": "pat-flow-port-mapping",
+    "title": "Many devices can share one address.",
+    "status": "planned"
+  },
+  {
+    "id": "R018",
+    "post_id": "CT023",
+    "concept": "dhcp-ipv4-dora-lease",
+    "title": "Your device borrows an address.",
+    "status": "planned"
+  },
+  {
+    "id": "R019",
+    "post_id": "CT024",
+    "concept": "vpn-tunnel-trust-boundary",
+    "title": "A VPN changes who carries your traffic.",
+    "status": "planned"
+  },
+  {
+    "id": "R020",
+    "post_id": "CT025",
+    "concept": "packet-loss-missing-network-units",
+    "title": "A fast connection can still drop packets.",
+    "status": "planned"
+  },
+  {
+    "id": "R021",
+    "post_id": "CT026",
+    "concept": "thermal-throttling-protective-limit",
+    "title": "Heat can make a fast chip slow down.",
+    "status": "planned"
+  },
+  {
+    "id": "R022",
+    "post_id": "CT027",
+    "concept": "lithium-ion-charge-flow",
+    "title": "A battery moves ions and electrons separately.",
+    "status": "planned"
+  },
+  {
+    "id": "R023",
+    "post_id": "CT028",
+    "concept": "inductive-wireless-charge",
+    "title": "Power can cross a tiny gap.",
+    "status": "planned"
+  },
+  {
+    "id": "R024",
+    "post_id": "CT029",
+    "concept": "linear-haptic-actuator",
+    "title": "A small moving mass makes a click.",
+    "status": "planned"
+  },
+  {
+    "id": "R025",
+    "post_id": "CT030",
+    "concept": "optical-fingerprint-ridge-image",
+    "title": "A fingerprint reader can look at light.",
+    "status": "planned"
+  },
+  {
+    "id": "R026",
+    "post_id": "CT031",
+    "concept": "rolling-shutter-row-readout",
+    "title": "A camera can bend a straight object.",
+    "status": "planned"
+  },
+  {
+    "id": "R027",
+    "post_id": "CT032",
+    "concept": "phase-detection-autofocus",
+    "title": "A camera compares two views to focus.",
+    "status": "planned"
+  },
+  {
+    "id": "R028",
+    "post_id": "CT033",
+    "concept": "optical-stabilization-lens-motion",
+    "title": "A lens can move against your hand.",
+    "status": "planned"
+  },
+  {
+    "id": "R029",
+    "post_id": "CT034",
+    "concept": "cmos-photon-charge-conversion",
+    "title": "A sensor turns light into charge.",
+    "status": "planned"
+  },
+  {
+    "id": "R030",
+    "post_id": "CT035",
+    "concept": "multi-exposure-hdr",
+    "title": "A bright window and a dark room.",
+    "status": "planned"
+  },
+  {
+    "id": "R031",
+    "post_id": "CT036",
+    "concept": "dram-volatile-working-memory",
+    "title": "Your computer's working space needs power.",
+    "status": "planned"
+  },
+  {
+    "id": "R032",
+    "post_id": "CT037",
+    "concept": "cpu-cache-locality",
+    "title": "The chip keeps useful data nearby.",
+    "status": "planned"
+  },
+  {
+    "id": "R033",
+    "post_id": "CT038",
+    "concept": "thermal-interface-air-gaps",
+    "title": "Tiny air gaps can trap heat.",
+    "status": "planned"
+  },
+  {
+    "id": "R034",
+    "post_id": "CT039",
+    "concept": "heat-pipe-phase-change",
+    "title": "A heat pipe moves heat with a phase change.",
+    "status": "planned"
+  },
+  {
+    "id": "R035",
+    "post_id": "CT040",
+    "concept": "clock-vs-instructions-per-cycle",
+    "title": "GHz alone cannot rank processors.",
+    "status": "planned"
+  },
+  {
+    "id": "R036",
+    "post_id": "CT041",
+    "concept": "gpu-parallel-workload",
+    "title": "Thousands of small jobs can run together.",
+    "status": "planned"
+  },
+  {
+    "id": "R037",
+    "post_id": "CT042",
+    "concept": "display-refresh-vs-rendered-frames",
+    "title": "A monitor refresh is a chance to show a frame.",
+    "status": "planned"
+  },
+  {
+    "id": "R038",
+    "post_id": "CT043",
+    "concept": "rgb-subpixel-color-mixing",
+    "title": "A screen mixes tiny colored lights.",
+    "status": "planned"
+  },
+  {
+    "id": "R039",
+    "post_id": "CT044",
+    "concept": "dac-digital-to-analog",
+    "title": "A speaker needs an analog signal.",
+    "status": "planned"
+  },
+  {
+    "id": "R040",
+    "post_id": "CT045",
+    "concept": "dynamic-microphone-induction",
+    "title": "A microphone turns motion into voltage.",
+    "status": "planned"
+  },
+  {
+    "id": "R041",
+    "post_id": "CT046",
+    "concept": "loudspeaker-voice-coil",
+    "title": "A speaker turns current into motion.",
+    "status": "planned"
+  },
+  {
+    "id": "R042",
+    "post_id": "CT047",
+    "concept": "lossy-image-compression",
+    "title": "A smaller photo can discard details.",
+    "status": "planned"
+  },
+  {
+    "id": "R043",
+    "post_id": "CT048",
+    "concept": "huffman-variable-length-codes",
+    "title": "Common symbols can get shorter codes.",
+    "status": "planned"
+  },
+  {
+    "id": "R044",
+    "post_id": "CT049",
+    "concept": "cryptographic-hash-integrity",
+    "title": "One changed byte changes the fingerprint.",
+    "status": "planned"
+  },
+  {
+    "id": "R045",
+    "post_id": "CT050",
+    "concept": "public-key-encryption-pair",
+    "title": "An encryption key can be public.",
+    "status": "planned"
+  },
+  {
+    "id": "R046",
+    "post_id": "CT051",
+    "concept": "passkey-origin-binding",
+    "title": "A passkey checks which site is asking.",
+    "status": "planned"
+  },
+  {
+    "id": "R047",
+    "post_id": "CT052",
+    "concept": "password-salt-uniqueness",
+    "title": "Matching passwords can have different stored hashes.",
+    "status": "planned"
+  },
+  {
+    "id": "R048",
+    "post_id": "CT053",
+    "concept": "totp-shared-secret-time",
+    "title": "A login code changes with the clock.",
+    "status": "planned"
+  },
+  {
+    "id": "R049",
+    "post_id": "CT054",
+    "concept": "digital-signature-authenticity",
+    "title": "A digital signature detects altered messages.",
+    "status": "planned"
+  },
+  {
+    "id": "R050",
+    "post_id": "CT055",
+    "concept": "private-browsing-local-scope",
+    "title": "Incognito changes what the browser keeps.",
+    "status": "planned"
+  },
+  {
+    "id": "R051",
+    "post_id": "CT056",
+    "concept": "http-cookie-state",
+    "title": "A website can remember a session.",
+    "status": "planned"
+  },
+  {
+    "id": "R052",
+    "post_id": "CT057",
+    "concept": "dom-document-tree",
+    "title": "A web page becomes a tree.",
+    "status": "planned"
+  },
+  {
+    "id": "R053",
+    "post_id": "CT058",
+    "concept": "api-request-response-contract",
+    "title": "An app asks another system to do a job.",
+    "status": "planned"
+  },
+  {
+    "id": "R054",
+    "post_id": "CT059",
+    "concept": "container-shared-kernel",
+    "title": "A container packages an app's environment.",
+    "status": "planned"
+  },
+  {
+    "id": "R055",
+    "post_id": "CT060",
+    "concept": "virtual-machine-guest-os",
+    "title": "One computer can run another operating system.",
+    "status": "planned"
+  },
+  {
+    "id": "R056",
+    "post_id": "CT061",
+    "concept": "compiler-translation",
+    "title": "Source code becomes machine instructions.",
+    "status": "planned"
+  },
+  {
+    "id": "R057",
+    "post_id": "CT062",
+    "concept": "git-three-way-merge",
+    "title": "Two edits meet at a shared ancestor.",
+    "status": "planned"
+  },
+  {
+    "id": "R058",
+    "post_id": "CT063",
+    "concept": "regular-expression-patterns",
+    "title": "A text search can describe a pattern.",
+    "status": "planned"
+  },
+  {
+    "id": "R059",
+    "post_id": "CT064",
+    "concept": "database-index-lookup",
+    "title": "A database can use an index to skip scanning.",
+    "status": "planned"
+  },
+  {
+    "id": "R060",
+    "post_id": "CT065",
+    "concept": "database-transaction-atomicity",
+    "title": "Several changes can succeed together.",
+    "status": "planned"
+  },
+  {
+    "id": "R061",
+    "post_id": "CT066",
+    "concept": "language-model-tokenization",
+    "title": "AI counts pieces of text, not just words.",
+    "status": "planned"
+  },
+  {
+    "id": "R062",
+    "post_id": "CT067",
+    "concept": "llm-hallucination-unverified-output",
+    "title": "A fluent answer can contain invented facts.",
+    "status": "planned"
+  },
+  {
+    "id": "R063",
+    "post_id": "CT068",
+    "concept": "rag-retrieved-context",
+    "title": "An AI system can fetch references before answering.",
+    "status": "planned"
+  },
+  {
+    "id": "R064",
+    "post_id": "CT069",
+    "concept": "transformer-attention-context",
+    "title": "A word's meaning depends on its neighbors.",
+    "status": "planned"
+  },
+  {
+    "id": "R065",
+    "post_id": "CT070",
+    "concept": "model-quantization-precision",
+    "title": "Smaller numbers can shrink a model.",
+    "status": "planned"
+  },
+  {
+    "id": "R066",
+    "post_id": "CT071",
+    "concept": "on-device-inference-data-path",
+    "title": "An AI task can stay on your device.",
+    "status": "planned"
+  },
+  {
+    "id": "R067",
+    "post_id": "CT072",
+    "concept": "overfitting-generalization",
+    "title": "A model can memorize the practice test.",
+    "status": "planned"
+  },
+  {
+    "id": "R068",
+    "post_id": "CT073",
+    "concept": "training-vs-inference-weights",
+    "title": "Learning a model differs from using it.",
+    "status": "planned"
+  },
+  {
+    "id": "R069",
+    "post_id": "CT074",
+    "concept": "diffusion-iterative-denoising",
+    "title": "An image can emerge from noise.",
+    "status": "planned"
+  },
+  {
+    "id": "R070",
+    "post_id": "CT075",
+    "concept": "classifier-confidence-calibration",
+    "title": "A confidence score needs a reality check.",
+    "status": "planned"
+  },
+  {
+    "id": "R071",
+    "post_id": "CT076",
+    "concept": "arpanet-first-message-lo",
+    "title": "The first ARPANET message stopped at LO.",
+    "status": "planned"
+  },
+  {
+    "id": "R072",
+    "post_id": "CT077",
+    "concept": "cern-web-1993-release",
+    "title": "CERN made Web software freely available.",
+    "status": "planned"
+  },
+  {
+    "id": "R073",
+    "post_id": "CT078",
+    "concept": "colossus-electronic-codebreaking",
+    "title": "Colossus read a fast paper tape.",
+    "status": "planned"
+  },
+  {
+    "id": "R074",
+    "post_id": "CT079",
+    "concept": "apollo-core-rope-wiring",
+    "title": "A spacecraft's program was wired into memory.",
+    "status": "planned"
+  },
+  {
+    "id": "R075",
+    "post_id": "CT080",
+    "concept": "engelbart-1968-demo",
+    "title": "The mouse arrived in a remarkable demonstration.",
+    "status": "planned"
+  },
+  {
+    "id": "R076",
+    "post_id": "CT081",
+    "concept": "xerox-alto-personal-gui",
+    "title": "An experimental computer put graphics on a desk.",
+    "status": "planned"
+  },
+  {
+    "id": "R077",
+    "post_id": "CT082",
+    "concept": "ibm-ramac-1956-disks",
+    "title": "A hard drive once filled a cabinet.",
+    "status": "planned"
+  },
+  {
+    "id": "R078",
+    "post_id": "CT083",
+    "concept": "intel-4004-calculator",
+    "title": "A calculator helped launch a microprocessor.",
+    "status": "planned"
+  },
+  {
+    "id": "R079",
+    "post_id": "CT084",
+    "concept": "ibm-floppy-1971-loading",
+    "title": "The floppy began as a way to load code.",
+    "status": "planned"
+  },
+  {
+    "id": "R080",
+    "post_id": "CT085",
+    "concept": "compact-disc-1982-launch",
+    "title": "Digital music arrived on a shiny disc.",
+    "status": "planned"
+  },
+  {
+    "id": "R081",
+    "post_id": "CT086",
+    "concept": "bain-fax-1843-patent",
+    "title": "A fax idea predates the telephone.",
+    "status": "planned"
+  },
+  {
+    "id": "R082",
+    "post_id": "CT087",
+    "concept": "morse-1844-telegraph",
+    "title": "A wire carried a message in electrical pulses.",
+    "status": "planned"
+  },
+  {
+    "id": "R083",
+    "post_id": "CT088",
+    "concept": "jacquard-punched-pattern-control",
+    "title": "A loom could read its pattern from cards.",
+    "status": "planned"
+  },
+  {
+    "id": "R084",
+    "post_id": "CT089",
+    "concept": "babbage-difference-engine",
+    "title": "A machine could calculate mathematical tables.",
+    "status": "planned"
+  },
+  {
+    "id": "R085",
+    "post_id": "CT090",
+    "concept": "lovelace-1843-notes",
+    "title": "Lovelace saw more than arithmetic in a machine.",
+    "status": "planned"
+  },
+  {
+    "id": "R086",
+    "post_id": "CT091",
+    "concept": "lamarr-antheil-1942-patent",
+    "title": "A radio design kept changing channels.",
+    "status": "planned"
+  },
+  {
+    "id": "R087",
+    "post_id": "CT092",
+    "concept": "first-sms-1992",
+    "title": "The first SMS wished someone Merry Christmas.",
+    "status": "planned"
+  },
+  {
+    "id": "R088",
+    "post_id": "CT093",
+    "concept": "bell-labs-1947-transistor",
+    "title": "A small crystal helped replace vacuum tubes.",
+    "status": "planned"
+  },
+  {
+    "id": "R089",
+    "post_id": "CT094",
+    "concept": "kilby-noyce-integrated-circuits",
+    "title": "A circuit could share one piece of semiconductor.",
+    "status": "planned"
+  },
+  {
+    "id": "R090",
+    "post_id": "CT095",
+    "concept": "eniac-women-programmers",
+    "title": "People had to turn equations into a working machine.",
+    "status": "planned"
+  },
+  {
+    "id": "R091",
+    "post_id": "CT096",
+    "concept": "upc-first-scan-1974",
+    "title": "A pack of gum became a barcode milestone.",
+    "status": "planned"
+  },
+  {
+    "id": "R092",
+    "post_id": "CT097",
+    "concept": "trojan-room-coffee-camera",
+    "title": "A coffee pot became an early webcam subject.",
+    "status": "planned"
+  },
+  {
+    "id": "R093",
+    "post_id": "CT098",
+    "concept": "tomlinson-email-at-1971",
+    "title": "One symbol connected a user to a machine.",
+    "status": "planned"
+  },
+  {
+    "id": "R094",
+    "post_id": "CT099",
+    "concept": "pagerank-link-structure",
+    "title": "Links helped an early search engine rank pages.",
+    "status": "planned"
+  },
+  {
+    "id": "R095",
+    "post_id": "CT100",
+    "concept": "linux-kernel-1991",
+    "title": "A student project became a shared operating-system kernel.",
+    "status": "planned"
+  },
+  {
+    "id": "R096",
+    "post_id": "CT101",
+    "concept": "pascal-mechanical-calculator",
+    "title": "Gears could carry a number to the next digit.",
+    "status": "planned"
+  },
+  {
+    "id": "R097",
+    "post_id": "CT102",
+    "concept": "moth-logbook-1947-bug-term",
+    "title": "A real moth was logged as a computer bug.",
+    "status": "planned"
+  },
+  {
+    "id": "R098",
+    "post_id": "CT103",
+    "concept": "acoustic-coupler-modem",
+    "title": "A telephone handset could carry computer data.",
+    "status": "planned"
+  },
+  {
+    "id": "R099",
+    "post_id": "CT104",
+    "concept": "ethernet-parc-1973",
+    "title": "Computers learned to share a local cable.",
+    "status": "planned"
+  },
+  {
+    "id": "R100",
+    "post_id": "CT105",
+    "concept": "ssh-1995-origin",
+    "title": "An exposed password inspired a safer remote login.",
+    "status": "planned"
+  }
+]

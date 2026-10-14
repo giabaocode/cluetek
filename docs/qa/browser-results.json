@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-14",
+  "engine": "Chromium",
+  "status": "passed",
+  "checks": [
+    "Home page loads with real assets and six initial explanations",
+    "Category filters and pagination",
+    "Library search, empty state and reset",
+    "Bookmarks persist across reloads",
+    "Global search, Escape dismissal and focus restoration",
+    "Mbps to MB/s conversion: presets and range input",
+    "Network experiment: all four connection states",
+    "Real MP4 playback, pause on close, all ten films",
+    "Article pages, real infographics, source references and bilingual routing",
+    "No horizontal overflow on home/article pages at 320, 375, 390, 768, 1024, 1440px",
+    "Mobile navigation opens and closes after selecting a destination",
+    "GitHub Pages repository-subpath navigation and language switch",
+    "Privacy dialog clears saved preferences",
+    "No browser JavaScript errors or failed site resources"
+  ],
+  "errors": [],
+  "failedResources": []
+}

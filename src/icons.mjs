@@ -1,0 +1,26 @@
+export const paths = {
+  arrow: '<path d="M5 12h14m-6-6 6 6-6 6"/>',
+  diagonal: '<path d="M7 17 17 7M7 7h10v10"/>',
+  search: '<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/>',
+  play: '<path d="m9 5 11 7-11 7Z"/>',
+  close: '<path d="m6 6 12 12M6 18 18 6"/>',
+  menu: '<path d="M4 7h16M4 12h16M4 17h16"/>',
+  wifi: '<path d="M2 8a16 16 0 0 1 20 0M5 12a11 11 0 0 1 14 0m-10 4a5 5 0 0 1 6 0"/><circle cx="12" cy="20" r="1"/>',
+  chip: '<rect x="6" y="6" width="12" height="12" rx="2"/><rect x="9" y="9" width="6" height="6" rx="1"/><path d="M9 2v4m6-4v4M9 18v4m6-4v4M2 9h4m-4 6h4m12-6h4m-4 6h4"/>',
+  layers: '<path d="m12 3 10 6-10 6L2 9Zm-9 11 9 5 9-5M3 19l9 5 9-5"/>',
+  shield: '<path d="m12 3 9 4v6c0 5-9 9-9 9s-9-4-9-9V7Zm-4 9 3 3 5-6"/>',
+  globe: '<circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><path d="M3 12h18"/>',
+  book: '<path d="M12 6C8 3 4 4 2 5v15c3-2 7-2 10 0 3-2 7-2 10 0V5c-3-1-6-2-10 1Zm0 0v14"/>',
+  bulb: '<path d="M8 17c0-3-3-4-3-8a7 7 0 0 1 14 0c0 4-3 5-3 8Zm0 3h8m-7 3h6"/>',
+  check: '<path d="m5 12 4 4L19 6"/>',
+  chevron: '<path d="m8 4 8 8-8 8"/>',
+  bookmark: '<path d="M6 3h12v18l-6-4-6 4Z"/>',
+  clock: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+  link: '<path d="m10 13 4-4m-6 7-2 2a4 4 0 0 1-6-6l5-5a4 4 0 0 1 6 0m2 1 2-2a4 4 0 0 1 6 6l-5 5a4 4 0 0 1-6 0"/>',
+  phone: '<rect x="6" y="2" width="12" height="20" rx="2"/><path d="M10 18h4"/>',
+  router: '<rect x="3" y="11" width="18" height="9" rx="2"/><path d="M6 11V4m12 7V4M7 16h1m4 0h1m4 0h1"/>',
+  spark: '<path d="m12 2 3 7 7 3-7 3-3 7-3-7-7-3 7-3Z"/>',
+  signal: '<path d="M4 20v-3m5 3v-7m5 7V9m5 11V4"/>',
+};
+export const icon = (name, cls = '') => `<svg class="icon ${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths[name] || paths.bulb}</svg>`;
+export const logo = `<svg class="brand-mark" viewBox="0 0 48 48" fill="none" aria-hidden="true"><circle cx="21" cy="21" r="15" stroke="currentColor" stroke-width="5"/><path d="m32 32 10 10" stroke="currentColor" stroke-width="6" stroke-linecap="round"/><path d="m10 28 7-7h7v-8" stroke="var(--cyan)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="24" cy="12" r="4" fill="var(--cyan)"/></svg>`;

@@ -1,0 +1,4263 @@
+{
+  "date": "2026-10-14",
+  "scope": "Workspace inventory, excluding environments and dependencies",
+  "files": [
+    {
+      "path": "bo-thu-nghiem-a.zip",
+      "bytes": 1798851,
+      "kind": "zip"
+    },
+    {
+      "path": "brand/cluetek/avatars/cluetek-avatar-a-ct.png",
+      "bytes": 1158503,
+      "kind": "png"
+    },
+    {
+      "path": "brand/cluetek/avatars/cluetek-avatar-b-clue.png",
+      "bytes": 1129147,
+      "kind": "png"
+    },
+    {
+      "path": "brand/cluetek/avatars/cluetek-avatar-c-idea.png",
+      "bytes": 1284337,
+      "kind": "png"
+    },
+    {
+      "path": "brand/cluetek/avatars/cluetek-avatar-with-name-navy-cyan.png",
+      "bytes": 1241946,
+      "kind": "png"
+    },
+    {
+      "path": "brand/cluetek/avatars/cluetek-avatar-with-name-teal-orange.png",
+      "bytes": 1225397,
+      "kind": "png"
+    },
+    {
+      "path": "brand/cluetek/avatars/prompts-with-name.md",
+      "bytes": 3617,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 3611,
+      "outline": [
+        "ClueTek — avatar with page name",
+        "Files",
+        "Wordmark edit prompt",
+        "Crop spacing refinement prompt",
+        "Modern palette edit prompt"
+      ]
+    },
+    {
+      "path": "brand/cluetek/avatars/prompts.md",
+      "bytes": 3657,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 3649,
+      "outline": [
+        "ClueTek — avatar directions",
+        "Final generation prompts",
+        "A — cluetek-avatar-a-ct",
+        "B — cluetek-avatar-b-clue",
+        "C — cluetek-avatar-c-idea"
+      ]
+    },
+    {
+      "path": "brand/cluetek/covers/cluetek-facebook-cover-navy-cyan-v2.png",
+      "bytes": 1319484,
+      "kind": "png"
+    },
+    {
+      "path": "brand/cluetek/covers/cluetek-facebook-cover-navy-cyan.png",
+      "bytes": 1292613,
+      "kind": "png"
+    },
+    {
+      "path": "brand/cluetek/covers/prompt-v2.md",
+      "bytes": 2273,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 2271,
+      "outline": [
+        "ClueTek cover v2 — avatar overlap correction",
+        "Final edit prompt"
+      ]
+    },
+    {
+      "path": "brand/cluetek/covers/prompt.md",
+      "bytes": 2293,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 2293,
+      "outline": [
+        "ClueTek Facebook cover",
+        "Final generation prompt"
+      ]
+    },
+    {
+      "path": "cluetek-reels/.gitignore",
+      "bytes": 110,
+      "kind": "other"
+    },
+    {
+      "path": "cluetek-reels/.prettierrc",
+      "bytes": 66,
+      "kind": "other"
+    },
+    {
+      "path": "cluetek-reels/README.md",
+      "bytes": 1138,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1138,
+      "outline": [
+        "Remotion video",
+        "Commands",
+        "Docs",
+        "Help",
+        "Issues"
+      ]
+    },
+    {
+      "path": "cluetek-reels/eslint.config.mjs",
+      "bytes": 79,
+      "kind": "mjs"
+    },
+    {
+      "path": "cluetek-reels/package-lock.json",
+      "bytes": 262353,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 262353,
+      "outline": []
+    },
+    {
+      "path": "cluetek-reels/package.json",
+      "bytes": 867,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 867,
+      "outline": []
+    },
+    {
+      "path": "cluetek-reels/public/audio/R001-am_michael.wav",
+      "bytes": 1621418,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R002-am_michael.wav",
+      "bytes": 1091688,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R003-am_michael.wav",
+      "bytes": 1223914,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R004-am_michael.wav",
+      "bytes": 1328554,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R005-am_michael.wav",
+      "bytes": 1140620,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R006-am_michael.wav",
+      "bytes": 1175244,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R007-am_michael.wav",
+      "bytes": 1289196,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R008-am_michael.wav",
+      "bytes": 1297516,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R009-am_michael.wav",
+      "bytes": 1296524,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R010-am_michael.wav",
+      "bytes": 1175148,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R011-am_michael.wav",
+      "bytes": 915722,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R012-am_michael.wav",
+      "bytes": 942380,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R013-am_michael.wav",
+      "bytes": 1219530,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R014-am_michael.wav",
+      "bytes": 833708,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R015-am_michael.wav",
+      "bytes": 979624,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R016-am_michael.wav",
+      "bytes": 1005098,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R017-am_michael.wav",
+      "bytes": 984456,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R018-am_michael.wav",
+      "bytes": 1042508,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R019-am_michael.wav",
+      "bytes": 941772,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/public/audio/R020-am_michael.wav",
+      "bytes": 956108,
+      "kind": "wav"
+    },
+    {
+      "path": "cluetek-reels/remotion.config.ts",
+      "bytes": 371,
+      "kind": "ts"
+    },
+    {
+      "path": "cluetek-reels/src/ClosingScene.tsx",
+      "bytes": 2949,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/Composition.tsx",
+      "bytes": 495,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/KaraokeCaptions.tsx",
+      "bytes": 1535,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/MechanismScene.tsx",
+      "bytes": 2891,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/Root.tsx",
+      "bytes": 3283,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/basic-captions.tsx",
+      "bytes": 2373,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/diagrams/Diagram.tsx",
+      "bytes": 9509,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/diagrams/NetworkDiagram.tsx",
+      "bytes": 6601,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R001.tsx",
+      "bytes": 4140,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R002.tsx",
+      "bytes": 8165,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R003.tsx",
+      "bytes": 8457,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R004.tsx",
+      "bytes": 8938,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R005.tsx",
+      "bytes": 8082,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R006.tsx",
+      "bytes": 9296,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R007.tsx",
+      "bytes": 9206,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R008.tsx",
+      "bytes": 8278,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R009.tsx",
+      "bytes": 9790,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R010.tsx",
+      "bytes": 8561,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R011.tsx",
+      "bytes": 2848,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R012.tsx",
+      "bytes": 2873,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R013.tsx",
+      "bytes": 2923,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R014.tsx",
+      "bytes": 2853,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R015.tsx",
+      "bytes": 2858,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R016.tsx",
+      "bytes": 2899,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R017.tsx",
+      "bytes": 2899,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R018.tsx",
+      "bytes": 2900,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R019.tsx",
+      "bytes": 2893,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/episodes/R020.tsx",
+      "bytes": 2917,
+      "kind": "tsx"
+    },
+    {
+      "path": "cluetek-reels/src/index.ts",
+      "bytes": 109,
+      "kind": "ts"
+    },
+    {
+      "path": "cluetek-reels/transcribe.mjs",
+      "bytes": 2135,
+      "kind": "mjs"
+    },
+    {
+      "path": "cluetek-reels/tsconfig.json",
+      "bytes": 368,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 368,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/analysis.md",
+      "bytes": 1520,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1513,
+      "outline": [
+        "Learning objectives",
+        "Audience",
+        "Visual opportunities",
+        "Recommendations confirmed by user",
+        "Scope"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/caption-review.md",
+      "bytes": 875,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 875,
+      "outline": [
+        "Caption review"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/cluetek-new-styles.zip",
+      "bytes": 5388714,
+      "kind": "zip"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/facebook.txt",
+      "bytes": 485,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 485,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/generation-plan.json",
+      "bytes": 23344,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 23344,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/A-craft-handmade/analysis.md",
+      "bytes": 1520,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1513,
+      "outline": [
+        "Learning objectives",
+        "Audience",
+        "Visual opportunities",
+        "Recommendations confirmed by user",
+        "Scope"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/A-craft-handmade/infographic-v1.png",
+      "bytes": 2432279,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/A-craft-handmade/infographic.png",
+      "bytes": 2307289,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/A-craft-handmade/prompts/infographic-v1.md",
+      "bytes": 6424,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 6422,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "bento-grid"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/A-craft-handmade/prompts/infographic-v2-edit.md",
+      "bytes": 1750,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1750,
+      "outline": [
+        "STRICT visible text whitelist"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/A-craft-handmade/prompts/infographic.md",
+      "bytes": 5994,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 5992,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "bento-grid"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/A-craft-handmade/source-wifi.md",
+      "bytes": 1512,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1512,
+      "outline": [
+        "Full Wi-Fi. Still offline?",
+        "Verified facts",
+        "Exact image text",
+        "Diagram meaning",
+        "Sources"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/A-craft-handmade/structured-content.md",
+      "bytes": 1506,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1506,
+      "outline": [
+        "FULL WI-FI. STILL OFFLINE?",
+        "Overview",
+        "Learning objectives",
+        "Section 1: Local Wi-Fi link",
+        "Section 2: Outward connection"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/B-bold-graphic/analysis.md",
+      "bytes": 1520,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1513,
+      "outline": [
+        "Learning objectives",
+        "Audience",
+        "Visual opportunities",
+        "Recommendations confirmed by user",
+        "Scope"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/B-bold-graphic/infographic-v1.png",
+      "bytes": 1928345,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/B-bold-graphic/infographic.png",
+      "bytes": 1908597,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/B-bold-graphic/prompts/infographic-v1.md",
+      "bytes": 6269,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 6269,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "linear-progression"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/B-bold-graphic/prompts/infographic-v2-edit.md",
+      "bytes": 973,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 973,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/B-bold-graphic/prompts/infographic.md",
+      "bytes": 5839,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 5839,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "linear-progression"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/B-bold-graphic/source-wifi.md",
+      "bytes": 1512,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1512,
+      "outline": [
+        "Full Wi-Fi. Still offline?",
+        "Verified facts",
+        "Exact image text",
+        "Diagram meaning",
+        "Sources"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/B-bold-graphic/structured-content.md",
+      "bytes": 1506,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1506,
+      "outline": [
+        "FULL WI-FI. STILL OFFLINE?",
+        "Overview",
+        "Learning objectives",
+        "Section 1: Local Wi-Fi link",
+        "Section 2: Outward connection"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/C-ikea-manual/analysis.md",
+      "bytes": 1520,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1513,
+      "outline": [
+        "Learning objectives",
+        "Audience",
+        "Visual opportunities",
+        "Recommendations confirmed by user",
+        "Scope"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/C-ikea-manual/infographic-v2.png",
+      "bytes": 1504857,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/C-ikea-manual/infographic.png",
+      "bytes": 1207319,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/C-ikea-manual/prompts/infographic-v1.md",
+      "bytes": 5878,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 5878,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "linear-progression"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/C-ikea-manual/prompts/infographic-v2-edit.md",
+      "bytes": 995,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 995,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/C-ikea-manual/prompts/infographic.md",
+      "bytes": 5448,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 5448,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "linear-progression"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/C-ikea-manual/source-wifi.md",
+      "bytes": 1512,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1512,
+      "outline": [
+        "Full Wi-Fi. Still offline?",
+        "Verified facts",
+        "Exact image text",
+        "Diagram meaning",
+        "Sources"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/infographic/C-ikea-manual/structured-content.md",
+      "bytes": 1506,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1506,
+      "outline": [
+        "FULL WI-FI. STILL OFFLINE?",
+        "Overview",
+        "Learning objectives",
+        "Section 1: Local Wi-Fi link",
+        "Section 2: Outward connection"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/installed-skills-manifest.json",
+      "bytes": 23164,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 23164,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/licenses/JimLiu--baoyu-skills.txt",
+      "bytes": 1064,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1064,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/licenses/coreyhaines31--marketingskills.txt",
+      "bytes": 1069,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1069,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/navy-cyan/alt-text.txt",
+      "bytes": 372,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 372,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/navy-cyan/cluetek-wifi-navy-cyan.png",
+      "bytes": 1452348,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/navy-cyan/facebook.txt",
+      "bytes": 485,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 485,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/navy-cyan/prompts/01-wifi-navy-cyan-edit.md",
+      "bytes": 2660,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 2660,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/navy-cyan/refs/01-edit-target.png",
+      "bytes": 1504857,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/navy-cyan/refs/02-brand-reference.png",
+      "bytes": 1241946,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/navy-cyan/version-notes.md",
+      "bytes": 489,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 487,
+      "outline": [
+        "ClueTek — returned to blue theme"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/navy-cyan/x.txt",
+      "bytes": 262,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 262,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/A-paper-craft.png",
+      "bytes": 2307289,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/B-bold-comic.png",
+      "bytes": 1908597,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/C-minimal-lines.png",
+      "bytes": 1504857,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/README.md",
+      "bytes": 827,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 657,
+      "outline": [
+        "ClueTek — 3 hướng thiết kế mới"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/alt-text.txt",
+      "bytes": 372,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 372,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/facebook.txt",
+      "bytes": 485,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 485,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/licenses/JimLiu--baoyu-skills.txt",
+      "bytes": 1064,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1064,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/licenses/coreyhaines31--marketingskills.txt",
+      "bytes": 1069,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1069,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/prompts/A/infographic-v1.md",
+      "bytes": 6424,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 6422,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "bento-grid"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/prompts/A/infographic-v2-edit.md",
+      "bytes": 1750,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1750,
+      "outline": [
+        "STRICT visible text whitelist"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/prompts/A/infographic.md",
+      "bytes": 5994,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 5992,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "bento-grid"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/prompts/B/infographic-v1.md",
+      "bytes": 6269,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 6269,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "linear-progression"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/prompts/B/infographic-v2-edit.md",
+      "bytes": 973,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 973,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/prompts/B/infographic.md",
+      "bytes": 5839,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 5839,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "linear-progression"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/prompts/C/infographic-v1.md",
+      "bytes": 5878,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 5878,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "linear-progression"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/prompts/C/infographic-v2-edit.md",
+      "bytes": 995,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 995,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/prompts/C/infographic.md",
+      "bytes": 5448,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 5448,
+      "outline": [
+        "Image Specifications",
+        "Core Principles",
+        "Text Requirements",
+        "Layout Guidelines",
+        "linear-progression"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/research-and-review.md",
+      "bytes": 12996,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 10695,
+      "outline": [
+        "ClueTek — tìm skill và thử lại nội dung, 13/10/2026",
+        "Dữ liệu repo gốc",
+        "17 ứng viên đã lọc",
+        "Thử nghiệm thực tế",
+        "Những lỗi đã sửa"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/sources-and-brief.md",
+      "bytes": 1512,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1512,
+      "outline": [
+        "Full Wi-Fi. Still offline?",
+        "Verified facts",
+        "Exact image text",
+        "Diagram meaning",
+        "Sources"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/verification.json",
+      "bytes": 1448,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1448,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/ready-to-post/x.txt",
+      "bytes": 262,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 262,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/research-and-review.md",
+      "bytes": 12996,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 10695,
+      "outline": [
+        "ClueTek — tìm skill và thử lại nội dung, 13/10/2026",
+        "Dữ liệu repo gốc",
+        "17 ứng viên đã lọc",
+        "Thử nghiệm thực tế",
+        "Những lỗi đã sửa"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/review-index.json",
+      "bytes": 72675,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 72089,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/JimLiu/baoyu-skills/skills/baoyu-article-illustrator/SKILL.md",
+      "bytes": 17179,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 16978,
+      "outline": [
+        "Article Illustrator",
+        "User Input Tools",
+        "Image Generation Tools",
+        "Batch Generation Policy",
+        "Confirmation Policy"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/JimLiu/baoyu-skills/skills/baoyu-cover-image/SKILL.md",
+      "bytes": 17931,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 17683,
+      "outline": [
+        "Cover Image Generator",
+        "User Input Tools",
+        "Image Generation Tools",
+        "Confirmation Policy",
+        "Options"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/JimLiu/baoyu-skills/skills/baoyu-infographic/SKILL.md",
+      "bytes": 19957,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 19737,
+      "outline": [
+        "Infographic Generator",
+        "User Input Tools",
+        "Image Generation Tools",
+        "Reference Images",
+        "Confirmation Policy"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/JimLiu/baoyu-skills/skills/baoyu-xhs-images/SKILL.md",
+      "bytes": 29570,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 28382,
+      "outline": [
+        "Image Card Series Generator",
+        "User Input Tools",
+        "Image Generation Tools",
+        "Batch Generation Policy",
+        "Confirmation Policy"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/alirezarezvani/claude-skills/marketing-skill/skills/content-creator/SKILL.md",
+      "bytes": 2871,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 2849,
+      "outline": [
+        "Content Creator → Redirected",
+        "Why the Change",
+        "Proactive Triggers",
+        "Output Artifacts",
+        "Communication"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/alirezarezvani/claude-skills/marketing-skill/skills/content-humanizer/SKILL.md",
+      "bytes": 14828,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 14682,
+      "outline": [
+        "Content Humanizer",
+        "Before Starting",
+        "What you need",
+        "How This Skill Works",
+        "Mode 1: Detect — AI Pattern Analysis"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/alirezarezvani/claude-skills/marketing-skill/skills/social-media-manager/SKILL.md",
+      "bytes": 9631,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 9572,
+      "outline": [
+        "Social Media Manager",
+        "Before Starting",
+        "1. Current State",
+        "2. Goals",
+        "3. Resources"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/anthropics/skills/skills/canvas-design/LICENSE.txt",
+      "bytes": 11345,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 11345,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/anthropics/skills/skills/canvas-design/SKILL.md",
+      "bytes": 11939,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 11937,
+      "outline": [
+        "DESIGN PHILOSOPHY CREATION",
+        "THE CRITICAL UNDERSTANDING",
+        "HOW TO GENERATE A VISUAL PHILOSOPHY",
+        "PHILOSOPHY EXAMPLES",
+        "ESSENTIAL PRINCIPLES"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/blader/humanizer/SKILL.md",
+      "bytes": 32348,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 32309,
+      "outline": [
+        "Humanizer: remove AI writing patterns",
+        "Why AI text sounds the way it does",
+        "How to work",
+        "Voice",
+        "What to return"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/conorbronsdon/avoid-ai-writing/skills/avoid-ai-writing/SKILL.md",
+      "bytes": 32391,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 32334,
+      "outline": [
+        "Avoid AI Writing — Audit & Rewrite",
+        "What this skill is and isn't",
+        "Editing contract",
+        "Modes",
+        "Severity tiers"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/coreyhaines31/marketingskills/skills/content-strategy/SKILL.md",
+      "bytes": 19174,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 18996,
+      "outline": [
+        "Content Strategy",
+        "Before Planning",
+        "1. Business Context",
+        "2. Customer Research",
+        "3. Current State"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/coreyhaines31/marketingskills/skills/copywriting/SKILL.md",
+      "bytes": 10940,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 10924,
+      "outline": [
+        "Copywriting",
+        "Before Writing",
+        "1. Page Purpose",
+        "2. Audience",
+        "3. Product/Offer"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/coreyhaines31/marketingskills/skills/social/SKILL.md",
+      "bytes": 18260,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 18190,
+      "outline": [
+        "Social Content",
+        "Before Creating Content",
+        "1. Goals",
+        "2. Audience",
+        "3. Brand Voice"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/msimchowitz/writing-skills/for-agents/humanizer/SKILL.md",
+      "bytes": 41457,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 41387,
+      "outline": [
+        "Humanizer: Remove AI Writing Patterns",
+        "Your Task",
+        "Voice Calibration",
+        "PERSONALITY AND SOUL",
+        "CONTENT PATTERNS"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/sickn33/antigravity-awesome-skills/skills/ai-image-generation-studio/SKILL.md",
+      "bytes": 12577,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 12567,
+      "outline": [
+        "AI Image Generator Skill",
+        "Overview",
+        "When to Use This Skill",
+        "Install (pinned, verified, approved twice)",
+        "Step 1: Download and verify into a review directory"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/sickn33/antigravity-awesome-skills/skills/image-studio/SKILL.md",
+      "bytes": 9499,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 9341,
+      "outline": [
+        "IMAGE-STUDIO: Gerador de Imagens Inteligente",
+        "Overview",
+        "When to Use This Skill",
+        "Do Not Use This Skill When",
+        "How It Works"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/reviewed-sources/sickn33/antigravity-awesome-skills/skills/social-content/SKILL.md",
+      "bytes": 1367,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1367,
+      "outline": [
+        "Social Content",
+        "Detailed Guide",
+        "When to Use",
+        "Limitations"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/source-wifi.md",
+      "bytes": 1512,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1512,
+      "outline": [
+        "Full Wi-Fi. Still offline?",
+        "Verified facts",
+        "Exact image text",
+        "Diagram meaning",
+        "Sources"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/structured-content.md",
+      "bytes": 1506,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1506,
+      "outline": [
+        "FULL WI-FI. STILL OFFLINE?",
+        "Overview",
+        "Learning objectives",
+        "Section 1: Local Wi-Fi link",
+        "Section 2: Outward connection"
+      ]
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/survey-metadata.json",
+      "bytes": 639086,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 639086,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/verification.json",
+      "bytes": 1448,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1448,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-exploration-2026-10-13/x.txt",
+      "bytes": 262,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 262,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/alt-text.txt",
+      "bytes": 364,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 364,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/cluetek-skill-pilot.zip",
+      "bytes": 2479607,
+      "kind": "zip"
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/comparison-metrics.json",
+      "bytes": 568,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 568,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/comparison.md",
+      "bytes": 9111,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 7854,
+      "outline": [
+        "ClueTek — bản thử trước và sau khi áp dụng skill",
+        "So sánh ảnh",
+        "Kết quả có thể đo",
+        "Nhận xét biên tập",
+        "Facebook mới"
+      ]
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/content-after.json",
+      "bytes": 4147,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4147,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/facebook-after.txt",
+      "bytes": 562,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 562,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/installed-skills-manifest.json",
+      "bytes": 4057,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4057,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/prompts/01-wifi-redesign.md",
+      "bytes": 1170,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1170,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/refs/brand-avatar.png",
+      "bytes": 1241946,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/refs/content-before.json",
+      "bytes": 5021,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4919,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/refs/wifi-before.png",
+      "bytes": 1449111,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/repo-commits.json",
+      "bytes": 608,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 608,
+      "outline": []
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/repo-review.md",
+      "bytes": 5448,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 4549,
+      "outline": [
+        "ClueTek — chọn skill cộng đồng để thử cải thiện nội dung",
+        "Repo đã đối chiếu",
+        "Bản đã cài",
+        "Những phần áp dụng",
+        "Những phần không coi là dữ liệu đã kiểm chứng"
+      ]
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/wifi-after.png",
+      "bytes": 1385720,
+      "kind": "png"
+    },
+    {
+      "path": "experiments/skill-pilot-2026-10-13/x-after.txt",
+      "bytes": 245,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 245,
+      "outline": []
+    },
+    {
+      "path": "nghien-cuu-ngach-2026-10-11.md",
+      "bytes": 39247,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 30654,
+      "outline": [
+        "Nghiên cứu ngách — bản sơ tuyển để người dùng quyết định",
+        "1. Hoàn cảnh và giới hạn bằng chứng",
+        "2. Chấm điểm 12 ngách",
+        "3. Hồ sơ từng ngách",
+        "N01 — Công nghệ đời thường bằng sơ đồ"
+      ]
+    },
+    {
+      "path": "nghien-cuu-viral-facebook-x-2026-10-12.md",
+      "bytes": 19957,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 15699,
+      "outline": [
+        "ClueTek — nghiên cứu bài chữ và ảnh trên Facebook/X",
+        "Quyết định đề xuất",
+        "1. “Dễ viral nhất” cần được hiểu thế nào?",
+        "2. Bằng chứng đã kiểm tra",
+        "Facebook: album đáng thử, không có bằng chứng “càng nhiều ảnh càng viral”"
+      ]
+    },
+    {
+      "path": "output/imagegen/prompts/01-whvid-cover.md",
+      "bytes": 2606,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 2606,
+      "outline": []
+    },
+    {
+      "path": "output/imagegen/whvid-avatar-prompt.md",
+      "bytes": 1853,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1853,
+      "outline": [
+        "WhVid avatar"
+      ]
+    },
+    {
+      "path": "output/imagegen/whvid-avatar.png",
+      "bytes": 1209138,
+      "kind": "png"
+    },
+    {
+      "path": "output/imagegen/whvid-cover.png",
+      "bytes": 1671719,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT001-wifi-internet/alt-text.txt",
+      "bytes": 368,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 368,
+      "outline": []
+    },
+    {
+      "path": "posts/CT001-wifi-internet/bai-dang.md",
+      "bytes": 6563,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 6066,
+      "outline": [
+        "ClueTek — bài đầu tiên: Wi-Fi và Internet",
+        "Ảnh",
+        "Facebook — dán nội dung này",
+        "X — dán nội dung này",
+        "Alt text — dùng cho cả hai nền tảng nếu có ô mô tả ảnh"
+      ]
+    },
+    {
+      "path": "posts/CT001-wifi-internet/cluetek-001-wifi-internet.png",
+      "bytes": 1449111,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT001-wifi-internet/content.json",
+      "bytes": 5021,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4919,
+      "outline": []
+    },
+    {
+      "path": "posts/CT001-wifi-internet/facebook.txt",
+      "bytes": 664,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 664,
+      "outline": []
+    },
+    {
+      "path": "posts/CT001-wifi-internet/kiem-tra-tep.md",
+      "bytes": 1000,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 804,
+      "outline": [
+        "Kiểm tra tệp bài CT001"
+      ]
+    },
+    {
+      "path": "posts/CT001-wifi-internet/x.txt",
+      "bytes": 259,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 259,
+      "outline": []
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/alt-text.txt",
+      "bytes": 848,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 848,
+      "outline": []
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/bai-dang.md",
+      "bytes": 11689,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 11168,
+      "outline": [
+        "ClueTek — bài ngày 12/10/2026",
+        "Tải ảnh theo thứ tự",
+        "Ảnh 1",
+        "Ảnh 2",
+        "Ảnh 3"
+      ]
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/cluetek-002-sync-backup-01.png",
+      "bytes": 1438164,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/cluetek-002-sync-backup-02.png",
+      "bytes": 1449833,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/cluetek-002-sync-backup-03.png",
+      "bytes": 1588396,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/content.json",
+      "bytes": 10641,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 10482,
+      "outline": []
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/facebook.txt",
+      "bytes": 815,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 815,
+      "outline": []
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/image-metadata.json",
+      "bytes": 423,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 423,
+      "outline": []
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/nguon-facebook.txt",
+      "bytes": 360,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 360,
+      "outline": []
+    },
+    {
+      "path": "posts/CT002-sync-backup-2026-10-12/x.txt",
+      "bytes": 272,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 272,
+      "outline": []
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/README.md",
+      "bytes": 639,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 532,
+      "outline": [
+        "ClueTek — ngày thứ 3"
+      ]
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/alt-text.txt",
+      "bytes": 277,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 277,
+      "outline": []
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/bai-dang.md",
+      "bytes": 1440,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1359,
+      "outline": [
+        "ClueTek — ngày 3: Mbps và MB/s",
+        "Facebook",
+        "X",
+        "Nguồn",
+        "Kiểm tra"
+      ]
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/cluetek-003-bits-bytes.png",
+      "bytes": 1342881,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/content.json",
+      "bytes": 2441,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2441,
+      "outline": []
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/facebook.txt",
+      "bytes": 549,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 549,
+      "outline": []
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/nguon-facebook.txt",
+      "bytes": 108,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 108,
+      "outline": []
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/prompts/01-bits-bytes.md",
+      "bytes": 2809,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 2807,
+      "outline": []
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/refs/brand-avatar.png",
+      "bytes": 1241946,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/skill-review.md",
+      "bytes": 1531,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1531,
+      "outline": [
+        "Writing skill review"
+      ]
+    },
+    {
+      "path": "posts/CT003-bits-bytes-2026-10-13/x.txt",
+      "bytes": 231,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 231,
+      "outline": []
+    },
+    {
+      "path": "posts/CT004-home-network-roles/README.md",
+      "bytes": 1153,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 946,
+      "outline": [
+        "ClueTek — bài kế tiếp"
+      ]
+    },
+    {
+      "path": "posts/CT004-home-network-roles/alt-text.txt",
+      "bytes": 401,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 401,
+      "outline": []
+    },
+    {
+      "path": "posts/CT004-home-network-roles/bai-dang.md",
+      "bytes": 1920,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1840,
+      "outline": [
+        "ClueTek — bài kế tiếp: một hộp, nhiều chức năng",
+        "Facebook",
+        "X",
+        "Nguồn dữ kiện",
+        "Tham khảo hình ảnh"
+      ]
+    },
+    {
+      "path": "posts/CT004-home-network-roles/cluetek-004-home-network-roles.png",
+      "bytes": 1664684,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT004-home-network-roles/content.json",
+      "bytes": 3296,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3296,
+      "outline": []
+    },
+    {
+      "path": "posts/CT004-home-network-roles/facebook.txt",
+      "bytes": 637,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 637,
+      "outline": []
+    },
+    {
+      "path": "posts/CT004-home-network-roles/nguon-facebook.txt",
+      "bytes": 516,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 516,
+      "outline": []
+    },
+    {
+      "path": "posts/CT004-home-network-roles/prompts/01-home-network-roles.md",
+      "bytes": 4195,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 4193,
+      "outline": []
+    },
+    {
+      "path": "posts/CT004-home-network-roles/reference-analysis.md",
+      "bytes": 1748,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1746,
+      "outline": [
+        "Networks Baseline — reference inspection"
+      ]
+    },
+    {
+      "path": "posts/CT004-home-network-roles/refs/brand-avatar.png",
+      "bytes": 1241946,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT004-home-network-roles/skill-review.md",
+      "bytes": 1420,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1420,
+      "outline": [
+        "Writing and design review"
+      ]
+    },
+    {
+      "path": "posts/CT004-home-network-roles/x.txt",
+      "bytes": 284,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 284,
+      "outline": []
+    },
+    {
+      "path": "posts/CT005-wifi-bands/README.md",
+      "bytes": 832,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 682,
+      "outline": [
+        "ClueTek — CT005"
+      ]
+    },
+    {
+      "path": "posts/CT005-wifi-bands/alt-text.txt",
+      "bytes": 464,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 464,
+      "outline": []
+    },
+    {
+      "path": "posts/CT005-wifi-bands/bai-dang.md",
+      "bytes": 1513,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1493,
+      "outline": [
+        "ClueTek — bài 5",
+        "Facebook",
+        "X",
+        "Alt text"
+      ]
+    },
+    {
+      "path": "posts/CT005-wifi-bands/cluetek-005-wifi-bands.png",
+      "bytes": 1733744,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT005-wifi-bands/content.json",
+      "bytes": 2659,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2659,
+      "outline": []
+    },
+    {
+      "path": "posts/CT005-wifi-bands/facebook.txt",
+      "bytes": 651,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 647,
+      "outline": []
+    },
+    {
+      "path": "posts/CT005-wifi-bands/nguon-facebook.txt",
+      "bytes": 326,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 326,
+      "outline": []
+    },
+    {
+      "path": "posts/CT005-wifi-bands/prompts/01-wifi-bands.md",
+      "bytes": 3310,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 3309,
+      "outline": []
+    },
+    {
+      "path": "posts/CT005-wifi-bands/refs/style-reference.png",
+      "bytes": 1664684,
+      "kind": "png"
+    },
+    {
+      "path": "posts/CT005-wifi-bands/skill-review.md",
+      "bytes": 1308,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1307,
+      "outline": [
+        "Draft review"
+      ]
+    },
+    {
+      "path": "posts/CT005-wifi-bands/x.txt",
+      "bytes": 270,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 270,
+      "outline": []
+    },
+    {
+      "path": "posts/cluetek-bai-2026-10-12.zip",
+      "bytes": 3902866,
+      "kind": "zip"
+    },
+    {
+      "path": "posts/cluetek-bai-4-home-network-roles.zip",
+      "bytes": 1519783,
+      "kind": "zip"
+    },
+    {
+      "path": "posts/cluetek-bai-5-wifi-bands.zip",
+      "bytes": 1602677,
+      "kind": "zip"
+    },
+    {
+      "path": "posts/cluetek-ngay-3-2026-10-13.zip",
+      "bytes": 1148554,
+      "kind": "zip"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001-usb-c.mp4",
+      "bytes": 2151453,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001-usb-c_15.000s.png",
+      "bytes": 673765,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001-usb-c_2.000s.png",
+      "bytes": 648065,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001-usb-c_22.000s.png",
+      "bytes": 673262,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001-usb-c_8.000s.png",
+      "bytes": 643476,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001.mp4",
+      "bytes": 1641154,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001_11.700s.png",
+      "bytes": 127272,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001_2.000s.png",
+      "bytes": 125681,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001_20.800s.png",
+      "bytes": 131565,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R001_6.500s.png",
+      "bytes": 123687,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R002.mp4",
+      "bytes": 1621943,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R002_1.933s.png",
+      "bytes": 135859,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R002_11.100s.png",
+      "bytes": 125988,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R002_16.333s.png",
+      "bytes": 145055,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R002_5.900s.png",
+      "bytes": 140263,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R003.mp4",
+      "bytes": 1756782,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R003_12.667s.png",
+      "bytes": 138616,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R003_17.867s.png",
+      "bytes": 144957,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R003_2.000s.png",
+      "bytes": 121511,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R003_7.400s.png",
+      "bytes": 140125,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R004.mp4",
+      "bytes": 1882617,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R004_12.600s.png",
+      "bytes": 134846,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R004_2.000s.png",
+      "bytes": 136635,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R004_20.167s.png",
+      "bytes": 132014,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R004_7.567s.png",
+      "bytes": 139387,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R005.mp4",
+      "bytes": 1688788,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R005_12.300s.png",
+      "bytes": 126700,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R005_18.033s.png",
+      "bytes": 122657,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R005_2.000s.png",
+      "bytes": 137074,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R005_6.300s.png",
+      "bytes": 130092,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R006.mp4",
+      "bytes": 1396216,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R006_10.267s.png",
+      "bytes": 141073,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R006_18.367s.png",
+      "bytes": 143490,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R006_2.000s.png",
+      "bytes": 125798,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R006_6.467s.png",
+      "bytes": 122586,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R007.mp4",
+      "bytes": 1852697,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R007_12.700s.png",
+      "bytes": 136613,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R007_2.000s.png",
+      "bytes": 145742,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R007_20.767s.png",
+      "bytes": 156613,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R007_7.767s.png",
+      "bytes": 144339,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R008.mp4",
+      "bytes": 1910801,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R008_12.700s.png",
+      "bytes": 164582,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R008_2.000s.png",
+      "bytes": 151464,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R008_21.200s.png",
+      "bytes": 152653,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R008_7.167s.png",
+      "bytes": 156710,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R009.mp4",
+      "bytes": 1892931,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R009_13.233s.png",
+      "bytes": 139332,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R009_2.000s.png",
+      "bytes": 131957,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R009_20.767s.png",
+      "bytes": 140702,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R009_7.633s.png",
+      "bytes": 144160,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R010.mp4",
+      "bytes": 1495043,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R010_10.533s.png",
+      "bytes": 111994,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R010_16.900s.png",
+      "bytes": 126221,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R010_2.000s.png",
+      "bytes": 117318,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/01/R010_6.767s.png",
+      "bytes": 117969,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/batches/batch-01-render-status.json",
+      "bytes": 2562,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2562,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/batches/batch-01-status.json",
+      "bytes": 3332,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3332,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/batches/batch-02-status.json",
+      "bytes": 3505,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3505,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/brief.md",
+      "bytes": 2186,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1740,
+      "outline": [
+        "ClueTek — 100 chủ đề, hai định dạng",
+        "Loại trùng",
+        "Kiểm tra trước khi giao"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/expand_brief.py",
+      "bytes": 988,
+      "kind": "py"
+    },
+    {
+      "path": "production/cluetek-100/make_assets.py",
+      "bytes": 8790,
+      "kind": "py"
+    },
+    {
+      "path": "production/cluetek-100/models/kokoro-v1.0.onnx",
+      "bytes": 325505369,
+      "kind": "onnx"
+    },
+    {
+      "path": "production/cluetek-100/models/voices-v1.0.bin",
+      "bytes": 28214398,
+      "kind": "bin"
+    },
+    {
+      "path": "production/cluetek-100/posts/CT006/alt-text.txt",
+      "bytes": 219,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 219,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT006/facebook.txt",
+      "bytes": 437,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 437,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT006/image-prompt.txt",
+      "bytes": 999,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 999,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT006/source.md",
+      "bytes": 226,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 226,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT006/x.txt",
+      "bytes": 188,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 188,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT007/alt-text.txt",
+      "bytes": 253,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 253,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT007/facebook.txt",
+      "bytes": 456,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 456,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT007/image-prompt.txt",
+      "bytes": 957,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 957,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT007/source.md",
+      "bytes": 153,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 153,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT007/x.txt",
+      "bytes": 193,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 193,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT008/alt-text.txt",
+      "bytes": 242,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 242,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT008/facebook.txt",
+      "bytes": 418,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 418,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT008/image-prompt.txt",
+      "bytes": 952,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 952,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT008/source.md",
+      "bytes": 150,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 150,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT008/x.txt",
+      "bytes": 221,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 221,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT009/alt-text.txt",
+      "bytes": 209,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 209,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT009/facebook.txt",
+      "bytes": 451,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 451,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT009/image-prompt.txt",
+      "bytes": 976,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 976,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT009/source.md",
+      "bytes": 217,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 217,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT009/x.txt",
+      "bytes": 201,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 201,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT010/alt-text.txt",
+      "bytes": 235,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 235,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT010/facebook.txt",
+      "bytes": 440,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 440,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT010/image-prompt.txt",
+      "bytes": 1026,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1026,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT010/source.md",
+      "bytes": 218,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 218,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT010/x.txt",
+      "bytes": 206,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 206,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT011/alt-text.txt",
+      "bytes": 208,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 208,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT011/facebook.txt",
+      "bytes": 444,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 444,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT011/image-prompt.txt",
+      "bytes": 962,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 960,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT011/source.md",
+      "bytes": 188,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 188,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT011/x.txt",
+      "bytes": 176,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 174,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT012/alt-text.txt",
+      "bytes": 210,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 210,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT012/facebook.txt",
+      "bytes": 436,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 436,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT012/image-prompt.txt",
+      "bytes": 982,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 982,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT012/source.md",
+      "bytes": 209,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 209,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT012/x.txt",
+      "bytes": 196,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 196,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT013/alt-text.txt",
+      "bytes": 234,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 234,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT013/facebook.txt",
+      "bytes": 484,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 484,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT013/image-prompt.txt",
+      "bytes": 1003,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1003,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT013/source.md",
+      "bytes": 213,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 213,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT013/x.txt",
+      "bytes": 222,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 222,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT014/alt-text.txt",
+      "bytes": 235,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 235,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT014/facebook.txt",
+      "bytes": 416,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 416,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT014/image-prompt.txt",
+      "bytes": 996,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 996,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT014/source.md",
+      "bytes": 211,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 211,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT014/x.txt",
+      "bytes": 197,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 197,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT015/alt-text.txt",
+      "bytes": 219,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 219,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT015/facebook.txt",
+      "bytes": 453,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 453,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT015/image-prompt.txt",
+      "bytes": 984,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 984,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT015/source.md",
+      "bytes": 172,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 172,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT015/x.txt",
+      "bytes": 199,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 199,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT016/alt-text.txt",
+      "bytes": 204,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 204,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT016/facebook.txt",
+      "bytes": 373,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 373,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT016/image-prompt.txt",
+      "bytes": 1006,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1002,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT016/source.md",
+      "bytes": 225,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 225,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT016/x.txt",
+      "bytes": 180,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 180,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT017/alt-text.txt",
+      "bytes": 190,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 190,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT017/facebook.txt",
+      "bytes": 408,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 408,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT017/image-prompt.txt",
+      "bytes": 993,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 993,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT017/source.md",
+      "bytes": 243,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 243,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT017/x.txt",
+      "bytes": 184,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 184,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT018/alt-text.txt",
+      "bytes": 213,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 213,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT018/facebook.txt",
+      "bytes": 375,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 375,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT018/image-prompt.txt",
+      "bytes": 1056,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1056,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT018/source.md",
+      "bytes": 251,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 251,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT018/x.txt",
+      "bytes": 210,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 210,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT019/alt-text.txt",
+      "bytes": 272,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 272,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT019/facebook.txt",
+      "bytes": 379,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 379,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT019/image-prompt.txt",
+      "bytes": 1072,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1070,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT019/source.md",
+      "bytes": 236,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 236,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT019/x.txt",
+      "bytes": 192,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 192,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT020/alt-text.txt",
+      "bytes": 204,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 204,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT020/facebook.txt",
+      "bytes": 394,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 394,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT020/image-prompt.txt",
+      "bytes": 996,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 996,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT020/source.md",
+      "bytes": 207,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 207,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT020/x.txt",
+      "bytes": 200,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 200,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT021/alt-text.txt",
+      "bytes": 204,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 204,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT021/facebook.txt",
+      "bytes": 410,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 410,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT021/image-prompt.txt",
+      "bytes": 1010,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1010,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT021/source.md",
+      "bytes": 239,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 239,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT021/x.txt",
+      "bytes": 190,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 190,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT022/alt-text.txt",
+      "bytes": 232,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 232,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT022/facebook.txt",
+      "bytes": 405,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 405,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT022/image-prompt.txt",
+      "bytes": 1085,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1085,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT022/source.md",
+      "bytes": 275,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 275,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT022/x.txt",
+      "bytes": 180,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 180,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT023/alt-text.txt",
+      "bytes": 197,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 197,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT023/facebook.txt",
+      "bytes": 401,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 401,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT023/image-prompt.txt",
+      "bytes": 1049,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1049,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT023/source.md",
+      "bytes": 291,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 291,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT023/x.txt",
+      "bytes": 194,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 188,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT024/alt-text.txt",
+      "bytes": 237,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 237,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT024/facebook.txt",
+      "bytes": 422,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 422,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT024/image-prompt.txt",
+      "bytes": 1087,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1087,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT024/source.md",
+      "bytes": 279,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 279,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT024/x.txt",
+      "bytes": 184,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 184,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT025/alt-text.txt",
+      "bytes": 216,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 216,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT025/facebook.txt",
+      "bytes": 399,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 399,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT025/image-prompt.txt",
+      "bytes": 1076,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 1076,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/posts/CT025/source.md",
+      "bytes": 274,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 274,
+      "outline": [
+        "Source"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/posts/CT025/x.txt",
+      "bytes": 211,
+      "kind": "txt",
+      "textReviewed": true,
+      "characters": 211,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/R001-master.mp4",
+      "bytes": 2111948,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/loudness.json",
+      "bytes": 3874,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3874,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/storyboard.png",
+      "bytes": 403538,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/v1-source/R001-am_michael-timing.json",
+      "bytes": 13362,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 13362,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/v1-source/R001-am_michael.wav",
+      "bytes": 1294986,
+      "kind": "wav"
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/v1-source/R001-asr.json",
+      "bytes": 6908,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6908,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001/v1-source/batch-01.json",
+      "bytes": 24561,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 24543,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001-check.json",
+      "bytes": 4123,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4122,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001-look-frames.json",
+      "bytes": 1702,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1702,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001-look.json",
+      "bytes": 2078,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2078,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R001-render-v2.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R001-v2-raw.mp4",
+      "bytes": 2111948,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R002/R002-master.mp4",
+      "bytes": 1883636,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R002/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R002/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R002/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R002/loudness.json",
+      "bytes": 4888,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4888,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R002/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R002/storyboard.png",
+      "bytes": 454935,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/R003/R003-master.mp4",
+      "bytes": 2043360,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R003/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R003/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R003/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R003/loudness.json",
+      "bytes": 4884,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4884,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R003/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R003/storyboard.png",
+      "bytes": 445360,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/R004/R004-master.mp4",
+      "bytes": 2193293,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R004/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R004/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R004/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R004/loudness.json",
+      "bytes": 4885,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4885,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R004/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R004/storyboard.png",
+      "bytes": 440426,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/R005/R005-master.mp4",
+      "bytes": 1957061,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R005/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R005/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R005/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R005/loudness.json",
+      "bytes": 4888,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4888,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R005/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R005/storyboard.png",
+      "bytes": 437884,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/R006/R006-master.mp4",
+      "bytes": 1829634,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R006/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R006/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R006/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R006/loudness.json",
+      "bytes": 3875,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3875,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R006/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R006/storyboard.png",
+      "bytes": 451449,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/R007/R007-master.mp4",
+      "bytes": 2319669,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R007/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R007/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R007/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R007/loudness.json",
+      "bytes": 3881,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3881,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R007/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R007/storyboard.png",
+      "bytes": 473648,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/R008/R008-master.mp4",
+      "bytes": 2379392,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R008/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R008/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R008/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R008/loudness.json",
+      "bytes": 3881,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3881,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R008/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R008/storyboard.png",
+      "bytes": 499899,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/R009/R009-master.mp4",
+      "bytes": 2190968,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R009/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R009/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R009/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R009/loudness.json",
+      "bytes": 5898,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 5898,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R009/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R009/storyboard.png",
+      "bytes": 457657,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/R010/R010-master.mp4",
+      "bytes": 1778029,
+      "kind": "mp4"
+    },
+    {
+      "path": "production/cluetek-100/qa/R010/check.json",
+      "bytes": 3925,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 3924,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R010/look.json",
+      "bytes": 2338,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2338,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R010/loudness-plan.json",
+      "bytes": 1434,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1434,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R010/loudness.json",
+      "bytes": 4884,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4884,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/R010/render.log",
+      "bytes": 0,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/R010/storyboard.png",
+      "bytes": 403613,
+      "kind": "png"
+    },
+    {
+      "path": "production/cluetek-100/qa/ffmpeg-doctor.json",
+      "bytes": 13776,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 13776,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/qa/transcription-02.log",
+      "bytes": 270,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/qa/transcription.log",
+      "bytes": 270,
+      "kind": "log"
+    },
+    {
+      "path": "production/cluetek-100/register_compositions.py",
+      "bytes": 1268,
+      "kind": "py"
+    },
+    {
+      "path": "production/cluetek-100/render_batch.py",
+      "bytes": 2790,
+      "kind": "py"
+    },
+    {
+      "path": "production/cluetek-100/scripts/R001-am_michael-timing.json",
+      "bytes": 6396,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6396,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R002-am_michael-timing.json",
+      "bytes": 13061,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 13061,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R002-asr.json",
+      "bytes": 6270,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6270,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R003-am_michael-timing.json",
+      "bytes": 13240,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 13238,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R003-asr.json",
+      "bytes": 6078,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6078,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R004-am_michael-timing.json",
+      "bytes": 14186,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 14186,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R004-asr.json",
+      "bytes": 6788,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6788,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R005-am_michael-timing.json",
+      "bytes": 13048,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 13048,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R005-asr.json",
+      "bytes": 6170,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6170,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R006-am_michael-timing.json",
+      "bytes": 14486,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 14480,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R006-asr.json",
+      "bytes": 6893,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6893,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R007-am_michael-timing.json",
+      "bytes": 14582,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 14578,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R007-asr.json",
+      "bytes": 7050,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 7050,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R008-am_michael-timing.json",
+      "bytes": 13589,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 13589,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R008-asr.json",
+      "bytes": 6795,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6795,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R009-am_michael-timing.json",
+      "bytes": 15096,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 15090,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R009-asr.json",
+      "bytes": 7034,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 7034,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R010-am_michael-timing.json",
+      "bytes": 13676,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 13676,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R010-asr.json",
+      "bytes": 6635,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6635,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R011-am_michael-timing.json",
+      "bytes": 4116,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4106,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R011-asr.json",
+      "bytes": 5389,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 5389,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R012-am_michael-timing.json",
+      "bytes": 4204,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4202,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R012-asr.json",
+      "bytes": 5535,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 5535,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R013-am_michael-timing.json",
+      "bytes": 4429,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4429,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R013-asr.json",
+      "bytes": 6173,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 6173,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R014-am_michael-timing.json",
+      "bytes": 4281,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4279,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R014-asr.json",
+      "bytes": 4923,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4923,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R015-am_michael-timing.json",
+      "bytes": 4188,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4188,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R015-asr.json",
+      "bytes": 5527,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 5527,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R016-am_michael-timing.json",
+      "bytes": 4298,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4298,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R016-asr.json",
+      "bytes": 5670,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 5670,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R017-am_michael-timing.json",
+      "bytes": 4361,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4361,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R017-asr.json",
+      "bytes": 4863,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4863,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R018-am_michael-timing.json",
+      "bytes": 4294,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4286,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R018-asr.json",
+      "bytes": 5677,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 5677,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R019-am_michael-timing.json",
+      "bytes": 4389,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4385,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R019-asr.json",
+      "bytes": 4718,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4718,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R020-am_michael-timing.json",
+      "bytes": 4424,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 4424,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/R020-asr.json",
+      "bytes": 5070,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 5070,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/batch-01.json",
+      "bytes": 29248,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 29230,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/batch-02-briefs.json",
+      "bytes": 21179,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 21153,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/scripts/batch-02.json",
+      "bytes": 27764,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 27738,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/sources/basic-captions.md",
+      "bytes": 2923,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 2923,
+      "outline": [
+        "Basic Captions"
+      ]
+    },
+    {
+      "path": "production/cluetek-100/topic-ledger.tsv",
+      "bytes": 8483,
+      "kind": "tsv",
+      "textReviewed": true,
+      "characters": 8483,
+      "outline": []
+    },
+    {
+      "path": "production/cluetek-100/voice-sample.wav",
+      "bytes": 634444,
+      "kind": "wav"
+    },
+    {
+      "path": "research/cluetek-market-and-reels-2026-10-14.zip",
+      "bytes": 26770,
+      "kind": "zip"
+    },
+    {
+      "path": "research/market-tech-2026-10-14/README.md",
+      "bytes": 889,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 739,
+      "outline": [
+        "ClueTek — market research + Reels skills"
+      ]
+    },
+    {
+      "path": "research/market-tech-2026-10-14/bao-cao-thi-truong.md",
+      "bytes": 14512,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 11737,
+      "outline": [
+        "ClueTek — nghiên cứu thị trường công nghệ và hướng thử Reels",
+        "Kết luận để ra quyết định",
+        "Cách thu thập và giới hạn",
+        "Các nhóm thị trường đã quan sát",
+        "Bằng chứng đáng dùng và đối chứng"
+      ]
+    },
+    {
+      "path": "research/market-tech-2026-10-14/cluetek-test-log.csv",
+      "bytes": 265,
+      "kind": "csv",
+      "textReviewed": true,
+      "characters": 262,
+      "outline": []
+    },
+    {
+      "path": "research/market-tech-2026-10-14/observations.csv",
+      "bytes": 17946,
+      "kind": "csv",
+      "textReviewed": true,
+      "characters": 16800,
+      "outline": []
+    },
+    {
+      "path": "research/market-tech-2026-10-14/observations.json",
+      "bytes": 44493,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 43422,
+      "outline": []
+    },
+    {
+      "path": "research/market-tech-2026-10-14/pilot-poe.json",
+      "bytes": 2969,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2835,
+      "outline": []
+    },
+    {
+      "path": "research/market-tech-2026-10-14/reels-pilots.md",
+      "bytes": 7796,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 6832,
+      "outline": [
+        "ClueTek — ba kịch bản Reels để thử",
+        "R001 — One cable. Where is the power?",
+        "R002 — Programs on punched cards",
+        "R003 — Wi-Fi changed rooms",
+        "Lựa chọn sản xuất đầu tiên"
+      ]
+    },
+    {
+      "path": "research/market-tech-2026-10-14/reels-skills-review.md",
+      "bytes": 3252,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 2700,
+      "outline": [
+        "Skill Reels — những gì đã đọc và lựa chọn",
+        "Những kỹ thuật sẽ dùng trong ClueTek"
+      ]
+    },
+    {
+      "path": "research/market-tech-2026-10-14/reels-workflow.md",
+      "bytes": 3570,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 2823,
+      "outline": [
+        "ClueTek — workflow Reels",
+        "Brief mỗi video",
+        "Kịch bản và storyboard",
+        "Dựng",
+        "Kiểm tra trước khi đăng"
+      ]
+    },
+    {
+      "path": "research/market-tech-2026-10-14/summary.json",
+      "bytes": 2547,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 2463,
+      "outline": []
+    },
+    {
+      "path": "research/reels-benchmark-2026-10-14/checkpoint.md",
+      "bytes": 1294,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 1292,
+      "outline": [
+        "Production steering checkpoint"
+      ]
+    },
+    {
+      "path": "research/reels-benchmark-2026-10-14/observations.md",
+      "bytes": 4551,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 3646,
+      "outline": [
+        "Reel/Short tham chiếu: quan sát trực tiếp, 14/10/2026",
+        "Sửa mẫu USB-C dựa trên các quan sát"
+      ]
+    },
+    {
+      "path": "thu-nghiem-a/README.md",
+      "bytes": 4126,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 3233,
+      "outline": [
+        "Bộ thử nghiệm A — công nghệ đời thường bằng hình ảnh",
+        "Mở gì trước?",
+        "Phạm vi biên tập",
+        "Kiểm tra đã thực hiện",
+        "Chỉnh sửa nếu cần"
+      ]
+    },
+    {
+      "path": "thu-nghiem-a/bai-thu.md",
+      "bytes": 13546,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 12452,
+      "outline": [
+        "Ba bài thử — ngách A",
+        "A01 — Wi-Fi isn't the Internet",
+        "Ba hook",
+        "Caption Facebook",
+        "Bài X — đã kèm nguồn"
+      ]
+    },
+    {
+      "path": "thu-nghiem-a/content.json",
+      "bytes": 11996,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 11522,
+      "outline": []
+    },
+    {
+      "path": "thu-nghiem-a/images/A01-wifi-internet.png",
+      "bytes": 190649,
+      "kind": "png"
+    },
+    {
+      "path": "thu-nghiem-a/images/A02-sync-backup-01.png",
+      "bytes": 229807,
+      "kind": "png"
+    },
+    {
+      "path": "thu-nghiem-a/images/A02-sync-backup-02.png",
+      "bytes": 212653,
+      "kind": "png"
+    },
+    {
+      "path": "thu-nghiem-a/images/A02-sync-backup-03.png",
+      "bytes": 233640,
+      "kind": "png"
+    },
+    {
+      "path": "thu-nghiem-a/images/A03-web-journey.png",
+      "bytes": 247658,
+      "kind": "png"
+    },
+    {
+      "path": "thu-nghiem-a/mobile-preview.png",
+      "bytes": 186251,
+      "kind": "png"
+    },
+    {
+      "path": "thu-nghiem-a/phieu-kiem-chung.md",
+      "bytes": 3971,
+      "kind": "md",
+      "textReviewed": true,
+      "characters": 3179,
+      "outline": [
+        "Phiếu kiểm chứng ba bài A",
+        "Cách làm",
+        "Câu hỏi gửi cho người đọc — có thể sao chép",
+        "Ghi nhận nội bộ — không đưa đáp án trước khi hỏi",
+        "Thời gian vận hành"
+      ]
+    },
+    {
+      "path": "thu-nghiem-a/preview.png",
+      "bytes": 526474,
+      "kind": "png"
+    },
+    {
+      "path": "thu-nghiem-a/render-checks.json",
+      "bytes": 1155,
+      "kind": "json",
+      "textReviewed": true,
+      "characters": 1155,
+      "outline": []
+    },
+    {
+      "path": "thu-nghiem-a/render.py",
+      "bytes": 12544,
+      "kind": "py"
+    }
+  ]
+}

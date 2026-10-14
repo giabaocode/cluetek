@@ -1,0 +1,896 @@
+[
+  {
+    "id": "CT001",
+    "slug": "wifi-vs-internet",
+    "category": "networking",
+    "icon": "wifi",
+    "title": {
+      "en": "Full Wi-Fi bars. Still offline.",
+      "vi": "Wi-Fi đầy vạch. Vẫn mất mạng."
+    },
+    "description": {
+      "en": "A strong signal and internet access are two different things.",
+      "vi": "Tín hiệu mạnh và truy cập Internet là hai chuyện riêng."
+    },
+    "body": {
+      "en": "Full Wi-Fi bars. No internet. Why?\n\nAt home, Wi-Fi connects your phone to your local network, usually through a router. Internet access is another part of the connection.\n\nIf that Internet connection goes down, your phone can still have a strong Wi-Fi signal while websites refuse to load.\n\nThink of two links:\n1. Your phone to your router.\n2. Your home network to the wider Internet.\n\nOne can work while the other fails. You can also access the Internet through mobile data or Ethernet, without Wi-Fi.\n\nThis is one possible explanation, not a diagnosis of every connection problem.",
+      "vi": "Ở nhà, Wi-Fi kết nối điện thoại với mạng cục bộ, thường qua router. Truy cập Internet là một phần khác của kết nối.\n\nNếu đường Internet bị ngắt, điện thoại vẫn có thể nhận tín hiệu Wi-Fi mạnh nhưng trang web không tải được. Hãy hình dung hai liên kết: điện thoại đến router và mạng gia đình đến Internet. Một liên kết có thể hoạt động khi liên kết kia bị lỗi.\n\nBạn cũng có thể truy cập Internet qua dữ liệu di động hoặc Ethernet. Đây là một ví dụ, không phải chẩn đoán cho mọi lỗi kết nối."
+    },
+    "sources": [
+      {
+        "title": "Cloudflare: What is a LAN?",
+        "url": "https://www.cloudflare.com/learning/network-layer/what-is-a-lan/"
+      },
+      {
+        "title": "Cloudflare: How does the Internet work?",
+        "url": "https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/"
+      }
+    ],
+    "images": [
+      "assets/images/wifi-vs-internet-1.webp"
+    ],
+    "alt": "ClueTek infographic: Full Wi-Fi bars do not guarantee Internet access. In a simplified home example, a phone has a working Wi-Fi link to a router, shown in cyan with a check mark. The router's Internet link is down, shown as a broken white line with an X before a globe. Wi-Fi bars show signal strength; the local connection can still work during an Internet outage.",
+    "video": null,
+    "origin": "posts/CT001-wifi-internet",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT002",
+    "slug": "sync-vs-backup",
+    "category": "safety",
+    "icon": "shield",
+    "title": {
+      "en": "Your files are synced. Can you recover them?",
+      "vi": "Tệp đã đồng bộ. Có khôi phục được không?"
+    },
+    "description": {
+      "en": "A deletion can sync, too. See what recovery really means.",
+      "vi": "Thao tác xóa cũng có thể đồng bộ. Hãy hiểu khả năng khôi phục."
+    },
+    "body": {
+      "en": "Your files are synced. But can you recover them?\n\nSync keeps selected files aligned across devices or locations. That can include deletions.\n\nFor example, deleting a file inside a synced OneDrive folder can remove it from both your computer and OneDrive. Deleted files may still be recoverable from the recycle bin.\n\nBackup is about having copies you can restore when something goes wrong. Some services combine sync with recovery features, so don't judge your setup by the word \"cloud\" alone.\n\nA simple check:\n- Use a harmless test file.\n- Check whether you can restore an earlier version and recover a deleted file.\n- Find out how long those recovery options remain available.\n\nKeep important backups protected from changes to your working files.\n\nCould you recover yesterday's version of an important document?",
+      "vi": "Đồng bộ giữ các tệp được chọn nhất quán giữa thiết bị hoặc vị trí. Điều đó có thể bao gồm cả thao tác xóa.\n\nVí dụ, xóa tệp trong thư mục OneDrive đã đồng bộ có thể xóa tệp ở cả máy tính và OneDrive. Bạn vẫn có thể khôi phục tệp từ thùng rác nếu tính năng đó còn áp dụng. Sao lưu tạo các bản sao để khôi phục khi có sự cố. Một số dịch vụ kết hợp cả hai.\n\nHãy dùng tệp thử không quan trọng để kiểm tra lịch sử phiên bản, khả năng khôi phục tệp đã xóa và thời hạn khôi phục. Bảo vệ bản sao quan trọng khỏi thay đổi trên tệp đang làm việc."
+    },
+    "sources": [
+      {
+        "title": "Microsoft: Delete files or folders in OneDrive",
+        "url": "https://support.microsoft.com/en-us/onedrive/delete-files-or-folders-in-onedrive"
+      },
+      {
+        "title": "Microsoft: Restore a previous version",
+        "url": "https://support.microsoft.com/en-us/onedrive/restore-a-previous-version-of-a-file-stored-in-onedrive"
+      },
+      {
+        "title": "NCSC: Backing up your data",
+        "url": "https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/always-back-up-your-most-important-data"
+      },
+      {
+        "title": "NCSC: Data security",
+        "url": "https://www.ncsc.gov.uk/collection/10-steps/data-security"
+      }
+    ],
+    "images": [
+      "assets/images/sync-vs-backup-1.webp",
+      "assets/images/sync-vs-backup-2.webp",
+      "assets/images/sync-vs-backup-3.webp"
+    ],
+    "alt": [
+      "ClueTek slide 1 of 3. Synced doesn't mean recoverable. Sync keeps selected files aligned; backup keeps copies for recovery. Two cards use paired file arrows and a file with a recovery arrow. Some services do both. Check what you can restore.",
+      "ClueTek slide 2 of 3. A deletion can sync, too. In the example of a synced OneDrive folder, a laptop and cloud each show a document and trash symbol, linked by sync arrows. Deletion can affect both the computer and OneDrive. Deleted doesn't always mean gone: check the recycle bin.",
+      "ClueTek slide 3 of 3. Can you restore yesterday's file? Three checks: use a harmless test file; check versions and deleted-file recovery; check recovery time limits. A recovery-file illustration and shield reinforce the advice to keep important backups protected from changes to working files."
+    ],
+    "video": null,
+    "origin": "posts/CT002-sync-backup-2026-10-12",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT003",
+    "slug": "bits-and-bytes",
+    "category": "safety",
+    "icon": "layers",
+    "title": {
+      "en": "100 Mbps. Why only 12.5 MB/s?",
+      "vi": "100 Mbps. Vì sao chỉ 12,5 MB/s?"
+    },
+    "description": {
+      "en": "One little letter changes the unit behind your download.",
+      "vi": "Một chữ cái nhỏ làm thay đổi đơn vị đo tốc độ tải."
+    },
+    "body": {
+      "en": "Why does a 100 Mbps internet plan turn into a much smaller number in your download app?\n\nCheck the letters. Mbps means megabits per second. MB/s means megabytes per second.\n\nOne byte contains 8 bits, so 100 Mbps converts to 12.5 MB/s before network overhead. The smaller number comes from measuring data in a larger unit.\n\nReal downloads can be slower because of Wi-Fi conditions or the server sending the file.\n\nBefore judging a download by its number, check whether the app says Mbps or MB/s.",
+      "vi": "Mbps là megabit mỗi giây. MB/s là megabyte mỗi giây. Một byte gồm 8 bit nên 100 Mbps tương đương 12,5 MB/s trước chi phí truyền dữ liệu.\n\nCon số nhỏ hơn xuất phát từ đơn vị lớn hơn. Tốc độ tải thực tế có thể thấp hơn do điều kiện Wi-Fi, chi phí giao thức hoặc máy chủ gửi tệp. Hãy kiểm tra đơn vị trước khi so sánh."
+    },
+    "sources": [
+      {
+        "title": "AT&T: Mbps vs Gbps",
+        "url": "https://www.att.com/blog/mbps-vs-gbps//"
+      },
+      {
+        "title": "NIST: Prefixes for binary multiples",
+        "url": "https://physics.nist.gov/cuu/Units/binary.html"
+      },
+      {
+        "title": "Google Home: internet speed tests",
+        "url": "https://support.google.com/googlehome/answer/6246634?hl=en"
+      }
+    ],
+    "images": [
+      "assets/images/bits-and-bytes-1.webp"
+    ],
+    "alt": "ClueTek unit-conversion infographic on a navy background. 100 Mbps is divided by 8 to give 12.5 MB/s, before network overhead. Lowercase b means bits; uppercase B means bytes. Eight bits equal one byte. The image notes that real downloads can be slower. Source: AT&T and NIST.",
+    "video": null,
+    "origin": "posts/CT003-bits-bytes-2026-10-13",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT004",
+    "slug": "your-home-network",
+    "category": "networking",
+    "icon": "router",
+    "title": {
+      "en": "One box. Several different jobs.",
+      "vi": "Một chiếc hộp. Nhiều chức năng."
+    },
+    "description": {
+      "en": "Meet the modem, ONT, router and Wi-Fi access point.",
+      "vi": "Phân biệt modem, ONT, router và điểm truy cập Wi-Fi."
+    },
+    "body": {
+      "en": "Your \"Wi-Fi box\" may be doing several jobs.\n\nIn a typical home setup, these roles help get you online:\n\n- A modem connects a cable or DSL service to your home. Fiber connections typically use an optical network terminal (ONT).\n- A router moves data between your home network and other networks, including the Internet.\n- A Wi-Fi access point connects wireless devices to your local network.\n\nA Wi-Fi router combines the router and access-point roles. Some internet-provider gateways also include a modem or ONT.\n\nCheck your device's model and specs to see which jobs it handles.",
+      "vi": "Trong mạng gia đình thông thường, modem kết nối dịch vụ cáp hoặc DSL với nhà bạn. Kết nối cáp quang thường dùng thiết bị đầu cuối quang ONT.\n\nRouter chuyển dữ liệu giữa mạng nhà và mạng khác, bao gồm Internet. Điểm truy cập Wi-Fi kết nối thiết bị không dây với mạng cục bộ. Router Wi-Fi kết hợp chức năng router và điểm truy cập. Một số gateway của nhà cung cấp còn có modem hoặc ONT.\n\nXem model và thông số thiết bị để biết chiếc hộp của bạn đảm nhận chức năng nào."
+    },
+    "sources": [
+      {
+        "title": "Google: What is a modem?",
+        "url": "https://support.google.com/googlehome/answer/6274112?hl=en"
+      },
+      {
+        "title": "Cisco: What is a wireless router?",
+        "url": "https://www.cisco.com/site/us/en/learn/topics/networking/what-is-a-wireless-router-wi-fi.html"
+      },
+      {
+        "title": "Cisco: What is an access point?",
+        "url": "https://www.cisco.com/site/us/en/learn/topics/small-business/what-is-an-access-point.html"
+      },
+      {
+        "title": "AT&T: Internet equipment",
+        "url": "https://www.att.com/support/article/internet/KM1011652/"
+      },
+      {
+        "title": "AT&T: Battery backup equipment",
+        "url": "https://www.att.com/support/article/internet/KM1041593/"
+      }
+    ],
+    "images": [
+      "assets/images/your-home-network-1.webp"
+    ],
+    "alt": "ClueTek poster titled \"Three roles. Sometimes one box.\" Three illustrated cards explain: a modem or ONT connects to the internet provider; a router moves data between networks; a Wi-Fi access point connects wireless devices to the local network. The takeaway says a Wi-Fi router combines router and access-point functions, while some gateways also include a modem or ONT. Navy, cyan and white design.",
+    "video": null,
+    "origin": "posts/CT004-home-network-roles",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT005",
+    "slug": "wifi-frequency-bands",
+    "category": "networking",
+    "icon": "signal",
+    "title": {
+      "en": "The next room changes your Wi-Fi.",
+      "vi": "Sang phòng khác, Wi-Fi cũng khác."
+    },
+    "description": {
+      "en": "Distance and walls help explain the 2.4 GHz / 5 GHz trade-off.",
+      "vi": "Khoảng cách và tường giúp giải thích khác biệt 2,4 GHz và 5 GHz."
+    },
+    "body": {
+      "en": "Fast Wi-Fi beside the router, slow Wi-Fi in the next room?\n\nThe band you're using can be part of the reason. Those 2.4 GHz and 5 GHz labels refer to Wi-Fi frequency bands.\n\n• 5 GHz often gives you higher speeds nearby, but its signal usually weakens more with distance and walls.\n• 2.4 GHz generally reaches farther, though it can be more crowded.\n\nIf your setup lets you choose, try 5 GHz near the router and 2.4 GHz farther away. Compare them in the room where you actually use your device.\n\nSome routers choose the band automatically. Walls, interference and your device still affect the result.",
+      "vi": "2,4 GHz và 5 GHz là các băng tần Wi-Fi. 5 GHz thường cho tốc độ cao hơn ở gần, nhưng tín hiệu thường giảm nhiều hơn khi qua tường hoặc đi xa. 2,4 GHz thường phủ xa hơn nhưng có thể đông thiết bị dùng chung.\n\nNếu thiết bị cho phép chọn, thử 5 GHz gần router và 2,4 GHz ở xa. So sánh ngay trong phòng bạn sử dụng. Một số router tự chọn băng tần. Tường, nhiễu và khả năng thiết bị vẫn ảnh hưởng kết quả."
+    },
+    "sources": [
+      {
+        "title": "Google Nest Help: Wi-Fi bands and band steering",
+        "url": "https://support.google.com/googlehome/answer/6293481?hl=en"
+      },
+      {
+        "title": "Google Nest Help: Troubleshoot slow internet",
+        "url": "https://support.google.com/googlehome/answer/6246489?hl=en"
+      },
+      {
+        "title": "Intel: 2.4 GHz vs 5 GHz vs 6 GHz",
+        "url": "https://www.intel.com/content/www/us/en/products/docs/wireless/2-4-vs-5ghz.html"
+      }
+    ],
+    "images": [
+      "assets/images/wifi-frequency-bands-1.webp"
+    ],
+    "alt": "Navy and cyan ClueTek infographic titled \"2.4 GHz vs 5 GHz\". Two illustrated home scenes compare Wi-Fi bands. The 5 GHz scene shows a laptop close to a router: often faster nearby, shorter typical range. The 2.4 GHz scene shows a phone farther from a router with walls between them: usually reaches farther, can be more crowded. The takeaway says to try both where you use your device if your setup lets you choose. Walls, interference and devices affect results.",
+    "video": null,
+    "origin": "posts/CT005-wifi-bands",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT006",
+    "slug": "usb-c-capabilities",
+    "category": "hardware",
+    "icon": "chip",
+    "title": {
+      "en": "Same plug. Different jobs.",
+      "vi": "Cùng đầu cắm. Khác khả năng."
+    },
+    "description": {
+      "en": "The USB-C shape doesn’t tell you everything a cable can do.",
+      "vi": "Hình dạng USB-C chưa nói hết những gì cáp có thể làm."
+    },
+    "body": {
+      "en": "A cable fits your laptop perfectly. The monitor still stays blank.\n\nUSB-C tells you the connector shape. Data performance, charging power and display support depend on the cable and the equipment connected to it. Two similar-looking cables can have different capabilities.\n\nFor a monitor connection, check display support on the laptop, cable and monitor. Keep a label on cables you have verified; it can save another round of guessing.",
+      "vi": "USB Type-C mô tả đầu nối. Hình dạng đó không tự xác định tốc độ USB, hỗ trợ Power Delivery hay khả năng truyền video qua Alternate Modes.\n\nHai cáp cùng đầu USB-C có thể hỗ trợ những tác vụ khác nhau. Hãy kiểm tra thông số của cáp và thiết bị để biết tốc độ dữ liệu, công suất sạc và chế độ được hỗ trợ."
+    },
+    "sources": [
+      {
+        "title": "usb.org",
+        "url": "https://www.usb.org/sites/default/files/usb_type-c_language_product_and_packaging_guidelines_20230320.pdf"
+      }
+    ],
+    "images": [],
+    "alt": "Two visually identical USB-C plugs above three clearly separated capability lanes: POWER, DATA, DISPLAY. Bottom checklist: Cable + laptop + monitor. Show capability differences without invented speed or wattage labels.",
+    "video": {
+      "id": "R001",
+      "src": "assets/videos/R001.mp4",
+      "poster": "assets/images/R001.webp",
+      "duration": 27,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT006",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT007",
+    "slug": "oled-pixels",
+    "category": "hardware",
+    "icon": "chip",
+    "title": {
+      "en": "Black begins with a pixel switching off.",
+      "vi": "Màu đen từ một điểm ảnh tắt."
+    },
+    "description": {
+      "en": "OLED pixels make their own light. That changes the picture.",
+      "vi": "Điểm ảnh OLED tự phát sáng. Điều đó tạo nên khác biệt."
+    },
+    "body": {
+      "en": "A bright star on a black screen shows what makes OLED interesting.\n\nOLED pixels produce their own light. Pixels displaying black can switch off, while nearby pixels keep shining. An LCD uses a backlight and liquid crystals to control the light that reaches you.\n\nThis is why OLED can put small bright details beside deep blacks. It explains one part of picture quality; choosing a display still involves brightness, viewing conditions and other tradeoffs.",
+      "vi": "Điểm ảnh OLED tự phát sáng thay vì dùng đèn nền chung. Một điểm ảnh có thể tắt để thể hiện màu đen.\n\nCơ chế đó giải thích cách OLED tạo vùng đen bên cạnh vùng sáng. Trải nghiệm thực tế còn phụ thuộc màn hình, nội dung và môi trường xem."
+    },
+    "sources": [
+      {
+        "title": "lg.com",
+        "url": "https://www.lg.com/ae/oled-tvs/2021/self-lit-pixels"
+      }
+    ],
+    "images": [],
+    "alt": "A magnified OLED grid with a bright cyan star, individually glowing cells, and completely dark surrounding cells. Small separate LCD layer sketch, labelled Backlight and Liquid crystals. Do not make performance measurements or claim one screen is best.",
+    "video": {
+      "id": "R002",
+      "src": "assets/videos/R002.mp4",
+      "poster": "assets/images/R002.webp",
+      "duration": 23,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT007",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT008",
+    "slug": "gps-signals",
+    "category": "hardware",
+    "icon": "globe",
+    "title": {
+      "en": "GPS listens to space.",
+      "vi": "GPS lắng nghe từ không gian."
+    },
+    "description": {
+      "en": "Your receiver finds its position from satellite broadcasts.",
+      "vi": "Thiết bị xác định vị trí từ tín hiệu vệ tinh phát xuống."
+    },
+    "body": {
+      "en": "GPS satellites broadcast. Your receiver does the calculation.\n\nThe signals carry the satellites' positions and timing information. By receiving several of them, a GPS receiver calculates its own position and time. It does not need to tell those satellites where it is.\n\nAn app sending your location to someone else is a separate step. Keeping those two processes separate makes location settings easier to understand.",
+      "vi": "Vệ tinh GPS phát tín hiệu một chiều chứa thông tin vị trí và thời gian. Bộ thu dùng các tín hiệu để tính vị trí và thời gian của mình.\n\nThiết bị không cần gửi vị trí ngược lại vệ tinh để phép định vị GPS này hoạt động. Ứng dụng trên thiết bị vẫn có thể gửi dữ liệu qua một kết nối khác."
+    },
+    "sources": [
+      {
+        "title": "gps.gov",
+        "url": "https://www.gps.gov/systems/gps/index.php"
+      }
+    ],
+    "images": [],
+    "alt": "Orbital satellites transmitting one-way cyan arrows into a phone. Computation shown inside receiver. Separate optional dashed arrow from an app to a server, labelled App location sharing. No real-world tracking target or precise coordinates.",
+    "video": {
+      "id": "R003",
+      "src": "assets/videos/R003.mp4",
+      "poster": "assets/images/R003.webp",
+      "duration": 26,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT008",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT009",
+    "slug": "ssd-garbage-collection",
+    "category": "hardware",
+    "icon": "layers",
+    "title": {
+      "en": "Your SSD rearranges the shelves.",
+      "vi": "SSD sắp xếp lại những ngăn dữ liệu."
+    },
+    "description": {
+      "en": "Inside the moving, erasing and rewriting of flash storage.",
+      "vi": "Khám phá quá trình di chuyển, xóa và ghi trong bộ nhớ flash."
+    },
+    "body": {
+      "en": "An SSD can move existing data before it writes something new.\n\nNAND flash has to erase used space before reprogramming it. Because pages sit inside larger erase blocks, the controller may copy still-needed pages elsewhere, then erase the old block. This is garbage collection.\n\nTRIM helps by telling the drive which data the operating system no longer needs. The diagram shows space management, not a guarantee that deleted files are securely erased.",
+      "vi": "Bộ nhớ NAND không ghi đè trực tiếp dữ liệu đã dùng theo cách đơn giản. SSD chuyển những trang dữ liệu còn hợp lệ rồi xóa cả khối để tái sử dụng.\n\nQuá trình này được gọi là garbage collection. TRIM giúp hệ điều hành thông báo dữ liệu nào không còn dùng. Hiệu quả còn phụ thuộc bộ điều khiển và trạng thái ổ đĩa."
+    },
+    "sources": [
+      {
+        "title": "kingston.com",
+        "url": "https://www.kingston.com/en/blog/servers-and-data-centers/garbage-collection"
+      }
+    ],
+    "images": [],
+    "alt": "Four panels with storage block cells: Valid/Unused, Copy valid pages, Erase old block, Ready for writes. Distinguish pages from blocks. Small TRIM arrow labels unnecessary data; no recycle-bin recovery claim.",
+    "video": {
+      "id": "R004",
+      "src": "assets/videos/R004.mp4",
+      "poster": "assets/images/R004.webp",
+      "duration": 28,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT009",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT010",
+    "slug": "qr-error-correction",
+    "category": "hardware",
+    "icon": "chip",
+    "title": {
+      "en": "A damaged QR code can survive.",
+      "vi": "Mã QR bị hỏng vẫn có thể đọc được."
+    },
+    "description": {
+      "en": "Extra information helps recover some missing data.",
+      "vi": "Thông tin bổ sung giúp khôi phục một phần dữ liệu thiếu."
+    },
+    "body": {
+      "en": "A small scratch does not always ruin a QR code.\n\nQR codes include error-correction information. Within limits, a reader can use it to reconstruct damaged data. Higher correction levels improve recovery, with a tradeoff in available capacity.\n\nThat does not mean any section can be covered safely. Damage patterns and the code's structural features matter. Test the final printed version, especially when adding a logo or decorative design.",
+      "vi": "Mã QR dùng cơ chế sửa lỗi Reed–Solomon để khôi phục một lượng dữ liệu hỏng nhất định. Có bốn mức sửa lỗi với sự đánh đổi về dung lượng.\n\nKhả năng khôi phục có giới hạn. Tỷ lệ trong tài liệu nói đến codeword, không phải mọi vùng diện tích tùy ý bị che trên hình."
+    },
+    "sources": [
+      {
+        "title": "qrcode.com",
+        "url": "https://www.qrcode.com/en/about/error_correction.html"
+      }
+    ],
+    "images": [],
+    "alt": "Illustrative QR-like code, intact locator squares and small scratch; enlarged diagram of Data plus Error correction yielding Recovered message. Explicit tiny label Illustrative diagram, not a scannable code. No blanket 30% area claim.",
+    "video": {
+      "id": "R005",
+      "src": "assets/videos/R005.mp4",
+      "poster": "assets/images/R005.webp",
+      "duration": 24,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT010",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT011",
+    "slug": "lidar-ranging",
+    "category": "hardware",
+    "icon": "signal",
+    "title": {
+      "en": "LiDAR times a round trip.",
+      "vi": "LiDAR đo thời gian đi và về."
+    },
+    "description": {
+      "en": "A pulse of light, a reflection and a distance calculation.",
+      "vi": "Một xung ánh sáng, một phản xạ và phép tính khoảng cách."
+    },
+    "body": {
+      "en": "A pulse of light can become a distance measurement.\n\nPulsed LiDAR sends light toward a surface and measures the time taken for the return. Because light's speed is known, that round-trip time can be converted into distance. The calculation accounts for both directions of travel.\n\nRepeat this across a scene and the measurements become a point cloud: many individual points describing a surface. This is how a timing measurement becomes a map.",
+      "vi": "LiDAR xung phát ánh sáng laser và đo thời gian ánh sáng phản xạ trở về. Thời gian đi và về giúp suy ra khoảng cách.\n\nNhiều phép đo tạo dữ liệu về bề mặt. Đây là cách mô tả LiDAR xung, không phải mọi thiết kế LiDAR đều sử dụng cùng một phương pháp."
+    },
+    "sources": [
+      {
+        "title": "ngs.noaa.gov",
+        "url": "https://www.ngs.noaa.gov/RESEARCH/RSD/main/lidar/lidar.html"
+      }
+    ],
+    "images": [],
+    "alt": "Three-step sensor-to-surface pulse diagram, timer and accurate round-trip formula, then schematic cyan point-cloud terrain. Mark illustrative. Avoid implying all LiDAR techniques use identical pulsed timing.",
+    "video": {
+      "id": "R006",
+      "src": "assets/videos/R006.mp4",
+      "poster": "assets/images/R006.webp",
+      "duration": 24,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT011",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT012",
+    "slug": "capacitive-touch",
+    "category": "hardware",
+    "icon": "phone",
+    "title": {
+      "en": "Glass can sense your finger.",
+      "vi": "Kính có thể nhận biết ngón tay."
+    },
+    "description": {
+      "en": "A grid of electrodes detects a small electrical change.",
+      "vi": "Lưới điện cực phát hiện một thay đổi điện nhỏ."
+    },
+    "body": {
+      "en": "The glass on a touchscreen is hiding a sensor grid.\n\nIn a projected capacitive design, electrodes beneath the surface are measured by a controller. Your finger changes the local capacitance. Comparing those measurements lets the device work out where the touch happened.\n\nSoftware then turns the changing position into a swipe or another gesture. The useful detail is underneath the glass: the screen is measuring an electrical change.",
+      "vi": "Cảm ứng điện dung dùng lưới điện cực để đo những thay đổi nhỏ về điện dung khi ngón tay ở gần.\n\nBộ điều khiển xử lý thay đổi giữa các điện cực để xác định vị trí chạm. Kính là bề mặt bạn chạm vào; cơ chế nhận biết nằm trong hệ thống cảm biến bên dưới."
+    },
+    "sources": [
+      {
+        "title": "microchip.com",
+        "url": "https://www.microchip.com/en-us/products/sensors-touch/mcus-on-chip-touch/2d-touchpads"
+      }
+    ],
+    "images": [],
+    "alt": "Exploded cutaway: finger, glass layer, electrode grid, touch controller. One local region lights cyan and maps to x/y coordinates, followed by a swipe trace. Label as simplified projected-capacitive schematic.",
+    "video": {
+      "id": "R007",
+      "src": "assets/videos/R007.mp4",
+      "poster": "assets/images/R007.webp",
+      "duration": 27,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT012",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT013",
+    "slug": "noise-cancellation",
+    "category": "hardware",
+    "icon": "signal",
+    "title": {
+      "en": "Quiet can come from more sound.",
+      "vi": "Thêm âm thanh để giảm tiếng ồn."
+    },
+    "description": {
+      "en": "Microphones and opposing signals help reduce background noise.",
+      "vi": "Micro và tín hiệu đối nghịch giúp giảm tiếng ồn nền."
+    },
+    "body": {
+      "en": "Your headphones can create sound that makes the world feel quieter.\n\nActive noise cancellation uses microphones to detect surrounding noise, then generates an opposing signal. This reduces some of the sound reaching your ears and is often especially useful for steady background hum.\n\nThe physical seal also matters. Ear cups and tips block sound in their own way, so fit remains part of the result. ANC reduces noise; the diagram should not be read as a promise of complete silence.",
+      "vi": "Chống ồn chủ động dùng micro và xử lý tín hiệu để tạo âm thanh đối nghịch với tiếng ồn. Cơ chế đặc biệt hữu ích với tiếng nền tương đối đều.\n\nKhả năng giảm ồn phụ thuộc hệ thống và loại âm thanh. Cách âm vật lý cũng góp phần; ANC không loại bỏ hoàn toàn mọi âm thanh."
+    },
+    "sources": [
+      {
+        "title": "bose.com",
+        "url": "https://www.bose.com/stories/how-do-noise-cancelling-headphones-work"
+      }
+    ],
+    "images": [],
+    "alt": "Opposing cyan and white waveforms entering an ear-cup cutaway, smaller residual waveform output. Distinct labels Noise, Opposing signal, Reduced noise. Bottom seal detail. Mark simplified model and do not label as hearing protection.",
+    "video": {
+      "id": "R008",
+      "src": "assets/videos/R008.mp4",
+      "poster": "assets/images/R008.webp",
+      "duration": 27,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT013",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT014",
+    "slug": "piezo-inkjet",
+    "category": "hardware",
+    "icon": "chip",
+    "title": {
+      "en": "A tiny bend launches ink.",
+      "vi": "Một chuyển động nhỏ đẩy giọt mực."
+    },
+    "description": {
+      "en": "A piezoelectric element helps eject a droplet in this printer design.",
+      "vi": "Phần tử áp điện giúp đẩy giọt mực trong thiết kế máy in này."
+    },
+    "body": {
+      "en": "A tiny movement inside a printhead can launch a drop of ink.\n\nIn Epson's Micro Piezo method, an electrical signal changes the shape of a piezoelectric element. Its movement changes pressure in the ink chamber and ejects a controlled droplet through the nozzle.\n\nRepeat the process and the dots become a printed image. This is one way inkjet printing works; other designs use different mechanisms to eject their ink.",
+      "vi": "Trong công nghệ Micro Piezo của Epson, phần tử áp điện biến dạng khi có tác động điện. Chuyển động nhỏ giúp đẩy giọt mực ra khỏi vòi phun.\n\nĐây là một phương pháp in phun. Các máy in khác có thể dùng cơ chế khác để tạo và đẩy giọt mực."
+    },
+    "sources": [
+      {
+        "title": "corporate.epson",
+        "url": "https://corporate.epson/en/technology/overview/printer-inkjet/micro-piezo.html"
+      }
+    ],
+    "images": [],
+    "alt": "Large accurate simplified piezo inkjet chamber cross-section with actuator, ink, nozzle and paper. Three numbered stages: Actuator flexes; Pressure changes; Droplet lands. Do not show heating or claim all inkjet methods work this way.",
+    "video": {
+      "id": "R009",
+      "src": "assets/videos/R009.mp4",
+      "poster": "assets/images/R009.webp",
+      "duration": 27,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT014",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT015",
+    "slug": "e-ink-displays",
+    "category": "hardware",
+    "icon": "book",
+    "title": {
+      "en": "This screen remembers its picture.",
+      "vi": "Màn hình này giữ được hình ảnh."
+    },
+    "description": {
+      "en": "A bistable display can hold an image between updates.",
+      "vi": "Màn hình lưỡng ổn định giữ hình giữa các lần cập nhật."
+    },
+    "body": {
+      "en": "An e-paper screen can keep showing a page after power to the display is removed.\n\nE Ink calls this bistability. Changing the picture requires energy; holding the finished picture does not require continuous display power. That is useful when a page stays still for a long time.\n\nThe complete device can still consume power through lighting, processing or wireless activity. The energy-saving feature belongs to the display's ability to retain an image.",
+      "vi": "Màn hình E Ink lưỡng ổn định có thể giữ hình mà không cần cấp điện liên tục cho màn hình giữa các lần cập nhật.\n\nViệc cập nhật hình vẫn cần điện. Đèn chiếu trước và các thành phần khác của thiết bị cũng tiêu thụ điện, nên toàn bộ thiết bị không phải lúc nào cũng không dùng năng lượng."
+    },
+    "sources": [
+      {
+        "title": "eink.com",
+        "url": "https://www.eink.com/tech/detail/Benefits"
+      }
+    ],
+    "images": [],
+    "alt": "E-paper device holding one page with separate schematic power paths: Update display, Hold image, Other electronics. Display power removed in hold state while page remains. Keep front light and processor power distinct.",
+    "video": {
+      "id": "R010",
+      "src": "assets/videos/R010.mp4",
+      "poster": "assets/images/R010.webp",
+      "duration": 24,
+      "status": "exported_format_passed_visual_review_pending",
+      "language": "en",
+      "narration": "AI"
+    },
+    "origin": "production/cluetek-100/posts/CT015",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT016",
+    "slug": "recursive-dns",
+    "category": "networking",
+    "icon": "globe",
+    "title": {
+      "en": "Who finds the website’s address?",
+      "vi": "Ai tìm địa chỉ của trang web?"
+    },
+    "description": {
+      "en": "DNS turns a familiar name into information your device can use.",
+      "vi": "DNS chuyển tên quen thuộc thành thông tin thiết bị sử dụng được."
+    },
+    "body": {
+      "en": "You type a website name. A DNS resolver helps find its address.\n\nThe resolver can consult other DNS servers or return an answer it has cached while that answer remains valid. This lookup lets your device work out where to send the next request.\n\nDNS resolution and downloading the page are separate steps. Finding the address does not mean the website has already arrived.",
+      "vi": "DNS đệ quy tìm câu trả lời cho tên miền bằng cách hỏi các máy chủ DNS khác hoặc dùng câu trả lời hợp lệ trong bộ nhớ đệm.\n\nThông tin đó giúp thiết bị tìm đến dịch vụ. Phân giải DNS và tải nội dung trang web là các bước riêng biệt."
+    },
+    "sources": [
+      {
+        "title": "cloudflare.com",
+        "url": "https://www.cloudflare.com/learning/dns/what-is-recursive-dns/"
+      }
+    ],
+    "images": [],
+    "alt": "A clear DNS lookup flow from browser name to resolver, root/TLD/authoritative servers, then back with address. Show cached-answer shortcut and a separately labelled website request. Use example.com only.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT016",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT017",
+    "slug": "tcp-reliability",
+    "category": "networking",
+    "icon": "layers",
+    "title": {
+      "en": "Your download has a missing piece.",
+      "vi": "Tệp tải về thiếu một phần."
+    },
+    "description": {
+      "en": "TCP tracks, acknowledges and retransmits data in an ordered stream.",
+      "vi": "TCP theo dõi, xác nhận và truyền lại dữ liệu theo thứ tự."
+    },
+    "body": {
+      "en": "A download can keep working even when part of its data needs another attempt.\n\nTCP tracks order and acknowledgements. Missing data can be retransmitted, and the receiver delivers an ordered stream to the application. That adds recovery work when the network loses data.\n\nReliability is a process, rather than a promise that every connection will finish. If recovery cannot continue, the connection can fail.",
+      "vi": "TCP cung cấp luồng byte theo thứ tự và đáng tin cậy bằng số thứ tự, xác nhận và truyền lại dữ liệu bị thiếu.\n\nNhờ đó ứng dụng có thể nhận các byte theo thứ tự. Kết nối vẫn có thể thất bại khi không thể phục hồi; TCP không bảo đảm mọi lần tải đều thành công."
+    },
+    "sources": [
+      {
+        "title": "cloudflare.com",
+        "url": "https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/"
+      }
+    ],
+    "images": [],
+    "alt": "Numbered packet sequence 1,2,gap,4; missing packet 3 retransmitted; receiver delivers 1,2,3,4 in order. Distinguish arrival order from delivered stream. Avoid puzzle art copied from source.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT017",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT018",
+    "slug": "udp-datagrams",
+    "category": "networking",
+    "icon": "signal",
+    "title": {
+      "en": "Why a live call can skip a beat.",
+      "vi": "Vì sao cuộc gọi bị ngắt một nhịp."
+    },
+    "description": {
+      "en": "UDP sends datagrams. Reliability can be added above it.",
+      "vi": "UDP gửi các datagram. Tầng bên trên có thể bổ sung độ tin cậy."
+    },
+    "body": {
+      "en": "In a live conversation, a late syllable may be less useful than the next one.\n\nUDP sends independent datagrams without transport-level guarantees of delivery or order. An application can decide how to handle missing or late data according to its needs.\n\nOther protocols can also build reliability on top of UDP. The choice of transport is only part of the system's behavior.",
+      "vi": "UDP gửi các datagram độc lập và không tự bảo đảm giao nhận, thứ tự hay truyền lại ở tầng truyền tải.\n\nỨng dụng hoặc giao thức bên trên có thể bổ sung các cơ chế tin cậy. Không nên kết luận mọi ứng dụng dùng UDP đều bỏ qua dữ liệu thiếu theo cùng một cách."
+    },
+    "sources": [
+      {
+        "title": "cloudflare.com",
+        "url": "https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/"
+      }
+    ],
+    "images": [],
+    "alt": "Live time axis with independent UDP datagrams; one late message marked stale. Separate app/protocol layer above UDP with optional reliability controls. No claim that UDP creates packet loss or always runs faster.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT018",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT019",
+    "slug": "https-trust",
+    "category": "safety",
+    "icon": "shield",
+    "title": {
+      "en": "A secure connection can reach a scam.",
+      "vi": "Kết nối bảo mật vẫn có thể đến trang lừa đảo."
+    },
+    "description": {
+      "en": "HTTPS protects a connection. It doesn’t vouch for a business.",
+      "vi": "HTTPS bảo vệ kết nối. Nó không bảo đảm uy tín doanh nghiệp."
+    },
+    "body": {
+      "en": "A secure connection says something about the connection. It does not prove a website is trustworthy.\n\nHTTPS protects the channel between the browser and the site. A misleading site can have that protection too. The site's claims and intentions need separate scrutiny.\n\nBefore following a sensitive request, check the actual domain and whether the request makes sense in context.",
+      "vi": "HTTPS thể hiện một kênh kết nối được bảo vệ. Nó không xác nhận doanh nghiệp đáng tin cậy hay nội dung trang vô hại.\n\nMột trang lừa đảo vẫn có thể dùng HTTPS. Kiểm tra địa chỉ và bối cảnh của trang thay vì chỉ dựa vào dấu hiệu bảo mật kết nối."
+    },
+    "sources": [
+      {
+        "title": "blog.chromium.org",
+        "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
+      }
+    ],
+    "images": [],
+    "alt": "Browser and generic website connected by an encrypted cyan tunnel. Shield wraps channel only. Website content contains a generic suspicious request. Large footer: Secure connection does not certify the site's intentions. Do not depict Chrome's old lock as its current UI.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT019",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT020",
+    "slug": "http-etag",
+    "category": "networking",
+    "icon": "layers",
+    "title": {
+      "en": "The server can say: use your copy.",
+      "vi": "Máy chủ có thể nói: dùng bản bạn có."
+    },
+    "description": {
+      "en": "An ETag helps a browser check whether a resource has changed.",
+      "vi": "ETag giúp trình duyệt kiểm tra tài nguyên đã thay đổi chưa."
+    },
+    "body": {
+      "en": "Reloading does not always mean downloading every file again.\n\nA server can attach an ETag to identify a resource version. The browser can send that identifier in an If-None-Match request. If the version is unchanged, the server responds with 304 Not Modified instead of sending the full resource body.\n\nThe browser then reuses its cached copy. It has checked freshness with a smaller exchange.",
+      "vi": "ETag nhận diện một phiên bản tài nguyên. Trình duyệt có thể gửi yêu cầu điều kiện If-None-Match để hỏi phiên bản đã thay đổi chưa.\n\nKhi phiên bản không đổi, máy chủ có thể trả về 304 mà không gửi lại phần nội dung. Trình duyệt tiếp tục dùng bản đang có nếu điều kiện bộ nhớ đệm phù hợp."
+    },
+    "sources": [
+      {
+        "title": "developer.mozilla.org",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/ETag"
+      }
+    ],
+    "images": [],
+    "alt": "Browser cached file and server current file both tagged v1. Conditional request If-None-Match followed by 304 Not Modified response with no resource body. Reuse arrow points to browser's own cached file.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT020",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT021",
+    "slug": "content-delivery-networks",
+    "category": "networking",
+    "icon": "globe",
+    "title": {
+      "en": "Your video might come from nearby.",
+      "vi": "Video có thể đến từ máy chủ gần bạn."
+    },
+    "description": {
+      "en": "A CDN can deliver cached content from a distributed network.",
+      "vi": "CDN có thể phân phối nội dung đã lưu từ mạng máy chủ phân tán."
+    },
+    "body": {
+      "en": "A website's image may arrive from a nearby copy.\n\nA content delivery network distributes eligible cached assets across edge servers. Serving a copy closer to the user can shorten the delivery path and reduce work at the origin.\n\nThe origin still matters. An uncached asset may need another fetch, and routing or cache settings affect the result. A CDN helps with delivery; it does not make distance disappear.",
+      "vi": "CDN là mạng máy chủ phân tán theo địa lý, có thể lưu và phân phối nội dung gần người dùng. Điều đó giúp giảm nhu cầu lấy mọi nội dung trực tiếp từ máy chủ gốc.\n\nMáy chủ gốc vẫn cần thiết. Nội dung chưa được lưu có thể phải lấy từ máy chủ gốc. Máy chủ được chọn phụ thuộc đường mạng và định tuyến, không chỉ khoảng cách địa lý."
+    },
+    "sources": [
+      {
+        "title": "cloudflare.com",
+        "url": "https://www.cloudflare.com/learning/cdn/what-is-a-cdn/"
+      }
+    ],
+    "images": [],
+    "alt": "Schematic globe with origin and three edge servers, nearby user receiving a cached image from an edge. Long origin path muted; short edge path cyan. Label illustrative routes, no invented latency values.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT021",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT022",
+    "slug": "nat-port-mapping",
+    "category": "networking",
+    "icon": "router",
+    "title": {
+      "en": "Many devices. One public address.",
+      "vi": "Nhiều thiết bị. Một địa chỉ công cộng."
+    },
+    "description": {
+      "en": "Address-and-port mapping keeps different connections apart.",
+      "vi": "Ánh xạ địa chỉ và cổng giúp phân biệt các kết nối."
+    },
+    "body": {
+      "en": "Several devices can appear outside a network under one IPv4 address.\n\nPort Address Translation keeps mappings of the devices' network flows. Address and port information distinguish the conversations, even when they share the same outside address.\n\nReplies are translated back using those records. The diagram explains flow mapping, rather than every part of a router's job or a complete security policy.",
+      "vi": "PAT, còn gọi là NAT overload, ánh xạ địa chỉ và cổng của các luồng kết nối để nhiều thiết bị nội bộ dùng chung một địa chỉ IPv4 bên ngoài.\n\nÁnh xạ giúp phân biệt phản hồi thuộc kết nối nào. NAT không tương đương một chính sách tường lửa đầy đủ."
+    },
+    "sources": [
+      {
+        "title": "cisco.com",
+        "url": "https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/26704-nat-faq-00.html"
+      }
+    ],
+    "images": [],
+    "alt": "Three internal devices and a PAT translation table mapping each inside address:port to one outside address with distinct ports. Return arrows follow matching rows. Use 192.0.2.10 as illustrative outside address; no security shield.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT022",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT023",
+    "slug": "dhcp-leases",
+    "category": "networking",
+    "icon": "router",
+    "title": {
+      "en": "Your device borrows an address.",
+      "vi": "Thiết bị mượn một địa chỉ."
+    },
+    "description": {
+      "en": "DHCP leases the configuration that helps a device join a network.",
+      "vi": "DHCP cấp thuê cấu hình giúp thiết bị tham gia mạng."
+    },
+    "body": {
+      "en": "Your device can borrow an IPv4 address instead of needing one typed in manually.\n\nA typical initial DHCP exchange follows Discover, Offer, Request and Acknowledgement. The server supplies leased configuration, and the device can use it for the lease's lifetime.\n\nRenewing an existing lease is a separate exchange. The four-step diagram describes an initial assignment, rather than every DHCP message.",
+      "vi": "DHCP tự động cấp thuê cấu hình mạng. Với quá trình cấp địa chỉ IPv4 ban đầu, thiết bị thường đi qua các bước Discover, Offer, Request và Acknowledgement.\n\nĐịa chỉ được cấp theo thời hạn thuê. Gia hạn có thể dùng trao đổi khác với lần cấp ban đầu."
+    },
+    "sources": [
+      {
+        "title": "learn.microsoft.com",
+        "url": "https://learn.microsoft.com/en-us/windows-server/troubleshoot/dynamic-host-configuration-protocol-basics"
+      }
+    ],
+    "images": [],
+    "alt": "DHCPv4 sequence diagram with client on left and server right. Discover right, Offer left, Request right, ACK left. Four large labels plus lease timer and separate renewal note; no IPv6 DORA claim.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT023",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT024",
+    "slug": "vpn-trust",
+    "category": "safety",
+    "icon": "shield",
+    "title": {
+      "en": "A VPN changes who carries your traffic.",
+      "vi": "VPN đổi bên vận chuyển lưu lượng."
+    },
+    "description": {
+      "en": "An encrypted tunnel changes your network path and trust boundary.",
+      "vi": "Đường hầm mã hóa thay đổi đường đi và bên bạn cần tin cậy."
+    },
+    "body": {
+      "en": "A VPN adds an encrypted tunnel to a different endpoint.\n\nYour traffic travels through that tunnel, then continues toward its destination. HTTPS can still protect the browser-to-site connection beyond the VPN endpoint. These protections cover different parts of the path.\n\nA VPN changes who carries your traffic. It does not automatically make logged-in accounts anonymous or remove the need to trust the systems involved.",
+      "vi": "VPN mã hóa lưu lượng đến điểm cuối VPN và thay đổi đường mạng. Bạn chuyển một phần niềm tin sang bên vận hành VPN.\n\nVPN không làm bạn ẩn danh trong mọi tình huống hoặc loại bỏ mọi rủi ro. HTTPS có thể tiếp tục bảo vệ kết nối sau điểm cuối VPN."
+    },
+    "sources": [
+      {
+        "title": "cloudflare.com",
+        "url": "https://www.cloudflare.com/en-gb/learning/access-management/what-is-a-vpn/"
+      }
+    ],
+    "images": [],
+    "alt": "Device, VPN endpoint and website in a three-node path. VPN tunnel covers first leg; distinct HTTPS protection spans browser-to-site. Separate account identity label at destination. Avoid depicting the VPN provider reading HTTPS content.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT024",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  },
+  {
+    "id": "CT025",
+    "slug": "packet-loss",
+    "category": "networking",
+    "icon": "signal",
+    "title": {
+      "en": "A fast connection can still drop packets.",
+      "vi": "Kết nối nhanh vẫn có thể mất gói tin."
+    },
+    "description": {
+      "en": "Throughput is only one part of a connection’s quality.",
+      "vi": "Thông lượng chỉ là một phần của chất lượng kết nối."
+    },
+    "body": {
+      "en": "A speed test can look healthy while a live call feels rough.\n\nThroughput is only one part of network quality. Delay, variation in delay and packet loss describe other parts. Packet loss means some of the data sent never reaches the destination.\n\nFor a real-time problem, inspect those measurements together. A large throughput number alone cannot tell you whether the conversation will feel smooth.",
+      "vi": "Mất gói tin nghĩa là một số gói gửi đi không đến đích. Thông lượng, độ trễ, jitter và mất gói đo các khía cạnh khác nhau của chất lượng mạng.\n\nMột kết quả đo tốc độ cao chưa đủ chứng minh cuộc gọi trực tiếp sẽ mượt. Ứng dụng và giao thức xử lý mất gói theo các cách khác nhau."
+    },
+    "sources": [
+      {
+        "title": "blog.cloudflare.com",
+        "url": "https://blog.cloudflare.com/aim-database-for-internet-quality/"
+      }
+    ],
+    "images": [],
+    "alt": "Four network-quality cards around a live-call timeline: Throughput, Latency, Jitter, Packet loss. Enlarge sent/received packet rows with one missing unit. No numeric test results and no Wi-Fi signal-bars comparison.",
+    "video": null,
+    "origin": "production/cluetek-100/posts/CT025",
+    "editorialStatus": "adapted-preview",
+    "minutes": 1
+  }
+]
