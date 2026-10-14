@@ -38,22 +38,27 @@ npm run check
 
 Thư mục `dist/` chứa bản deploy. Có thể đưa lên GitHub Pages, Cloudflare Pages, Netlify hoặc hosting tĩnh. Build command: `npm run build`. Output: `dist`.
 
-## Tạo repo GitHub và deploy
+## GitHub và deploy
 
-Git đã được khởi tạo riêng trong thư mục dự án. Tạo repo **trống** tên `cluetek-ecosystem` ở <https://github.com/new>. Chọn **Public** để dùng GitHub Pages với GitHub Free. Không thêm README, `.gitignore` hoặc license từ GitHub vì source đã có sẵn.
+Repo source: <https://github.com/giabaocode/cluetek>.
 
-Thay `YOUR_USERNAME` bằng tài khoản của bạn:
+Địa chỉ GitHub Pages: <https://giabaocode.github.io/cluetek/>. Git đã nối `origin` với repo này, nhánh `main`. Pages được cấu hình dùng GitHub Actions và HTTPS.
+
+Để cập nhật website, sửa source rồi chạy:
 
 ```sh
-git remote add origin https://github.com/YOUR_USERNAME/cluetek-ecosystem.git
-git push -u origin main
+npm run build
+npm run check
+git add .
+git commit -m "Update ClueTek website"
+git push origin main
 ```
 
-Trong repo, mở **Settings → Pages → Build and deployment → Source → GitHub Actions**. Sau đó mở **Actions → Build and deploy ClueTek → Run workflow** nếu lần push đầu chưa deploy do Pages chưa được bật.
-
-Workflow tự build 52 trang, kiểm tra nội dung/liên kết rồi deploy. URL sẽ được trả về trong job `deploy`. Với repo thông thường, dạng URL là `https://YOUR_USERNAME.github.io/cluetek-ecosystem/`.
+Mỗi lần push lên `main`, workflow `Build and deploy ClueTek` tự build, kiểm tra nội dung/liên kết và deploy. Xem tiến trình tại <https://github.com/giabaocode/cluetek/actions>.
 
 Workflow lấy `SITE_URL` từ `actions/configure-pages` để tạo canonical URL, Open Graph URL và sitemap đúng với repo hoặc tên miền riêng. Khi build local, không tạo URL tên miền giả.
+
+Nếu cần chạy lại thủ công, mở **Actions → Build and deploy ClueTek → Run workflow**. Cấu hình nguồn trong **Settings → Pages → Source** là **GitHub Actions**.
 
 [Tài liệu GitHub Pages gốc](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
